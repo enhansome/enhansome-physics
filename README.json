@@ -19,7 +19,7 @@
             "last_commit": "2024-08-17T14:14:36Z",
             "owner": "liabru",
             "repo": "matter-js",
-            "stars": 18362
+            "stars": 18365
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2025-10-22T02:13:14Z",
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14673
+            "stars": 14678
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-12T20:09:58Z",
             "owner": "simbody",
             "repo": "simbody",
-            "stars": 2545
+            "stars": 2544
           }
         },
         {
@@ -269,7 +269,7 @@
             "last_commit": "2026-08-14T15:29:08Z",
             "owner": "gwastro",
             "repo": "pycbc",
-            "stars": 389
+            "stars": 388
           }
         },
         {
@@ -362,7 +362,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T12:34:45Z",
+            "last_commit": "2026-08-15T23:01:08Z",
             "owner": "CoolProp",
             "repo": "CoolProp",
             "stars": 1050
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-14T20:31:15Z",
             "owner": "NanoComp",
             "repo": "meep",
-            "stars": 1739
+            "stars": 1741
           }
         },
         {
@@ -466,10 +466,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T01:40:57Z",
+            "last_commit": "2026-08-16T01:55:35Z",
             "owner": "gprMax",
             "repo": "gprMax",
-            "stars": 870
+            "stars": 871
           }
         },
         {
@@ -480,10 +480,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T14:50:28Z",
+            "last_commit": "2026-08-15T20:03:27Z",
             "owner": "thliebig",
             "repo": "openEMS",
-            "stars": 710
+            "stars": 711
           }
         },
         {
@@ -761,7 +761,7 @@
             "last_commit": "2024-05-02T23:21:08Z",
             "owner": "MITGameLab",
             "repo": "OpenRelativity",
-            "stars": 776
+            "stars": 777
           }
         },
         {
@@ -809,7 +809,7 @@
             "last_commit": "2026-08-10T01:24:26Z",
             "owner": "qutip",
             "repo": "qutip",
-            "stars": 2056
+            "stars": 2057
           }
         },
         {
@@ -952,10 +952,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:13:48Z",
+            "last_commit": "2026-08-15T16:16:36Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5273
+            "stars": 5275
           }
         },
         {
@@ -980,7 +980,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:09:01Z",
+            "last_commit": "2026-08-15T20:12:47Z",
             "owner": "pynbody",
             "repo": "pynbody",
             "stars": 192
@@ -1058,7 +1058,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:55:03.637Z",
+    "last_updated": "2026-08-16T06:56:46.281Z",
     "original_repository": "wbierbower/awesome-physics",
     "original_repository_sha": "807186a1235f3b35aa969718e16b04480e4e5f6a",
     "enhanced_repository": "enhansome/enhansome-physics",
