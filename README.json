@@ -1,358 +1,392 @@
 {
   "items": [
     {
-      "description": "Please take a quick look at the contribution guidelines first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you for taking the time to consider contributing!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "matter-js",
-          "description": "A 2D rigid body physics engine for the web",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-08-17T14:14:36Z",
-            "owner": "liabru",
-            "repo": "matter-js",
-            "stars": 18367
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "matter-js",
+              "description": "A 2D rigid body physics engine for the web",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16986405,
+                "language": "JavaScript",
+                "last_commit": "2024-08-17T14:14:36Z",
+                "owner": "liabru",
+                "repo": "matter-js",
+                "stars": 18367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bullet3",
+              "description": "real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1605598,
+                "language": "C++",
+                "last_commit": "2025-10-22T02:13:14Z",
+                "owner": "bulletphysics",
+                "repo": "bullet3",
+                "stars": 14683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cannon.js",
+              "description": "A lightweight 3D physics engine written in JavaScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3100209,
+                "language": "JavaScript",
+                "last_commit": "2023-08-04T10:35:17Z",
+                "owner": "schteppe",
+                "repo": "cannon.js",
+                "stars": 4992
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mujoco-py",
+              "description": "A physics engine for detailed, efficient rigid body simulations with contacts",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 56986017,
+                "language": "Cython",
+                "last_commit": "2023-12-10T12:47:21Z",
+                "owner": "openai",
+                "repo": "mujoco-py",
+                "stars": 3144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "simbody",
+              "description": "High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12146969,
+                "language": "C++",
+                "last_commit": "2026-08-12T20:09:58Z",
+                "owner": "simbody",
+                "repo": "simbody",
+                "stars": 2544
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PhysX",
+              "description": "a scalable multi-platform game physics solution",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70719606,
+                "language": "C++",
+                "last_commit": "2022-11-15T04:27:25Z",
+                "owner": "NVIDIAGameWorks",
+                "repo": "PhysX-3.4",
+                "stars": 2412
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PositionBasedDynamics",
+              "description": "A library for the physically-based simulation of rigid bodies, deformable solids and fluids",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35102707,
+                "language": "C++",
+                "last_commit": "2026-08-14T15:58:38Z",
+                "owner": "InteractiveComputerGraphics",
+                "repo": "PositionBasedDynamics",
+                "stars": 2261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nphysics",
+              "description": "2 and 3-dimensional rigid body physics engine for Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10066380,
+                "language": "Rust",
+                "last_commit": "2021-07-27T08:26:13Z",
+                "owner": "dimforge",
+                "repo": "nphysics",
+                "stars": 1649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pymunk",
+              "description": "A easy-to-use pythonic 2d physics library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13273472,
+                "language": "Python",
+                "last_commit": "2026-07-06T06:53:29Z",
+                "owner": "viblo",
+                "repo": "pymunk",
+                "stars": 1061
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "newton-dynamics",
+              "description": "an integrated solution for real time simulation of physics environments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21649756,
+                "language": "HTML",
+                "last_commit": "2026-01-17T19:29:44Z",
+                "owner": "MADEAPPS",
+                "repo": "newton-dynamics",
+                "stars": 1024
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ncollide",
+              "description": "2 and 3-dimensional collision detection library in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10066282,
+                "language": "Rust",
+                "last_commit": "2023-01-31T13:02:36Z",
+                "owner": "dimforge",
+                "repo": "ncollide",
+                "stars": 933
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "myphysicslab",
+              "description": "provides JavaScript classes to build real-time interactive animated physics simulations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71400491,
+                "language": "TypeScript",
+                "last_commit": "2024-11-25T17:09:58Z",
+                "owner": "myphysicslab",
+                "repo": "myphysicslab",
+                "stars": 443
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pydy",
+              "description": "Multibody dynamics tool kit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12165060,
+                "language": "Python",
+                "last_commit": "2026-07-28T12:29:05Z",
+                "owner": "pydy",
+                "repo": "pydy",
+                "stars": 416
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rigid Bodies and Physics Engines"
         },
         {
-          "node_type": "item",
-          "title": "bullet3",
-          "description": "real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-10-22T02:13:14Z",
-            "owner": "bulletphysics",
-            "repo": "bullet3",
-            "stars": 14683
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fluid-engine-dev",
+              "description": "Fluid simulation engine for computer graphics applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58299041,
+                "language": "C++",
+                "last_commit": "2023-12-24T21:45:32Z",
+                "owner": "doyubkim",
+                "repo": "fluid-engine-dev",
+                "stars": 2098
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DualSPHysics",
+              "description": "C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) solver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111666996,
+                "language": "C++",
+                "last_commit": "2025-04-16T09:41:48Z",
+                "owner": "DualSPHysics",
+                "repo": "DualSPHysics",
+                "stars": 742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fluids",
+              "description": "Fluid dynamics component of Chemical Engineering Design Library (ChEDL)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48924523,
+                "language": "Python",
+                "last_commit": "2026-07-26T16:23:23Z",
+                "owner": "CalebBell",
+                "repo": "fluids",
+                "stars": 449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pysph",
+              "description": "SPH fluid simulation with advanced screen space fluid rendering, using pyopengl and pyopencl",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4177205,
+                "language": "Python",
+                "last_commit": "2013-06-24T11:45:01Z",
+                "owner": "benma",
+                "repo": "pysph",
+                "stars": 114
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fluid Mechanics"
         },
         {
-          "node_type": "item",
-          "title": "cannon.js",
-          "description": "A lightweight 3D physics engine written in JavaScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-08-04T10:35:17Z",
-            "owner": "schteppe",
-            "repo": "cannon.js",
-            "stars": 4992
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mujoco-py",
-          "description": "A physics engine for detailed, efficient rigid body simulations with contacts",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Cython",
-            "last_commit": "2023-12-10T12:47:21Z",
-            "owner": "openai",
-            "repo": "mujoco-py",
-            "stars": 3144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "simbody",
-          "description": "High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-12T20:09:58Z",
-            "owner": "simbody",
-            "repo": "simbody",
-            "stars": 2543
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PhysX",
-          "description": "a scalable multi-platform game physics solution",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-11-15T04:27:25Z",
-            "owner": "NVIDIAGameWorks",
-            "repo": "PhysX-3.4",
-            "stars": 2412
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PositionBasedDynamics",
-          "description": "A library for the physically-based simulation of rigid bodies, deformable solids and fluids",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-14T15:58:38Z",
-            "owner": "InteractiveComputerGraphics",
-            "repo": "PositionBasedDynamics",
-            "stars": 2261
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nphysics",
-          "description": "2 and 3-dimensional rigid body physics engine for Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-07-27T08:26:13Z",
-            "owner": "dimforge",
-            "repo": "nphysics",
-            "stars": 1649
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pymunk",
-          "description": "A easy-to-use pythonic 2d physics library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-06T06:53:29Z",
-            "owner": "viblo",
-            "repo": "pymunk",
-            "stars": 1061
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "newton-dynamics",
-          "description": "an integrated solution for real time simulation of physics environments",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-01-17T19:29:44Z",
-            "owner": "MADEAPPS",
-            "repo": "newton-dynamics",
-            "stars": 1024
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ncollide",
-          "description": "2 and 3-dimensional collision detection library in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-01-31T13:02:36Z",
-            "owner": "dimforge",
-            "repo": "ncollide",
-            "stars": 933
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "myphysicslab",
-          "description": "provides JavaScript classes to build real-time interactive animated physics simulations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-25T17:09:58Z",
-            "owner": "myphysicslab",
-            "repo": "myphysicslab",
-            "stars": 443
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pydy",
-          "description": "Multibody dynamics tool kit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T12:29:05Z",
-            "owner": "pydy",
-            "repo": "pydy",
-            "stars": 416
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pycbc",
+              "description": "Analyze gravitational-wave data, find signals, and study their parameters",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31596861,
+                "language": "Python",
+                "last_commit": "2026-08-18T20:17:44Z",
+                "owner": "gwastro",
+                "repo": "pycbc",
+                "stars": 388
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gravity-Simulator",
+              "description": "A 2D newtonian gravity simulator in JS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31847345,
+                "language": "JavaScript",
+                "last_commit": "2018-12-04T00:14:53Z",
+                "owner": "HermannBjorgvin",
+                "repo": "Gravity-Simulator",
+                "stars": 137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gravisim",
+              "description": "A universal gravity simulator written using rust_sdl2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170027712,
+                "language": "Rust",
+                "last_commit": "2022-08-11T00:39:50Z",
+                "owner": "bcamp1",
+                "repo": "Gravisim",
+                "stars": 77
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gravity"
         }
       ],
-      "title": "Rigid Bodies and Physics Engines"
+      "title": "Mechanics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "fluid-engine-dev",
-          "description": "Fluid simulation engine for computer graphics applications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-12-24T21:45:32Z",
-            "owner": "doyubkim",
-            "repo": "fluid-engine-dev",
-            "stars": 2097
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DualSPHysics",
-          "description": "C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) solver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-04-16T09:41:48Z",
-            "owner": "DualSPHysics",
-            "repo": "DualSPHysics",
-            "stars": 742
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fluids",
-          "description": "Fluid dynamics component of Chemical Engineering Design Library (ChEDL)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-26T16:23:23Z",
-            "owner": "CalebBell",
-            "repo": "fluids",
-            "stars": 449
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pysph",
-          "description": "SPH fluid simulation with advanced screen space fluid rendering, using pyopengl and pyopencl",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2013-06-24T11:45:01Z",
-            "owner": "benma",
-            "repo": "pysph",
-            "stars": 114
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyrocko",
+              "description": "A seismology toolkit for Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 557212,
+                "language": "Python",
+                "last_commit": "2026-08-04T13:05:36Z",
+                "owner": "pyrocko",
+                "repo": "pyrocko",
+                "stars": 248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sw4",
+              "description": "3-D seismic modeling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25608392,
+                "language": "C++",
+                "last_commit": "2026-07-27T17:52:30Z",
+                "owner": "geodynamics",
+                "repo": "sw4",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webgl-ripples",
+              "description": "A physically realistic real-time simulation of (transversal) 2D waves in WebGL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10322667,
+                "language": "JavaScript",
+                "last_commit": "2016-06-13T07:25:14Z",
+                "owner": "m-ender",
+                "repo": "webgl-ripples",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mechanical Waves"
         }
       ],
-      "title": "Fluid Mechanics"
+      "title": "Waves and Acoustics"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pycbc",
-          "description": "Analyze gravitational-wave data, find signals, and study their parameters",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T20:17:44Z",
-            "owner": "gwastro",
-            "repo": "pycbc",
-            "stars": 388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gravity-Simulator",
-          "description": "A 2D newtonian gravity simulator in JS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-12-04T00:14:53Z",
-            "owner": "HermannBjorgvin",
-            "repo": "Gravity-Simulator",
-            "stars": 137
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gravisim",
-          "description": "A universal gravity simulator written using rust_sdl2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-08-11T00:39:50Z",
-            "owner": "bcamp1",
-            "repo": "Gravisim",
-            "stars": 77
-          }
-        }
-      ],
-      "title": "Gravity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pyrocko",
-          "description": "A seismology toolkit for Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T13:05:36Z",
-            "owner": "pyrocko",
-            "repo": "pyrocko",
-            "stars": 248
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sw4",
-          "description": "3-D seismic modeling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-27T17:52:30Z",
-            "owner": "geodynamics",
-            "repo": "sw4",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webgl-ripples",
-          "description": "A physically realistic real-time simulation of (transversal) 2D waves in WebGL",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-06-13T07:25:14Z",
-            "owner": "m-ender",
-            "repo": "webgl-ripples",
-            "stars": 30
-          }
-        }
-      ],
-      "title": "Mechanical Waves"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -361,6 +395,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19775824,
             "language": "C++",
             "last_commit": "2026-08-16T14:38:55Z",
             "owner": "CoolProp",
@@ -375,6 +410,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32940327,
             "language": "C++",
             "last_commit": "2026-08-12T23:19:16Z",
             "owner": "Cantera",
@@ -389,6 +425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62404647,
             "language": "Python",
             "last_commit": "2026-07-13T02:05:58Z",
             "owner": "CalebBell",
@@ -403,8 +440,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332545,
             "language": "Python",
-            "last_commit": "2026-08-17T11:50:58Z",
+            "last_commit": "2026-08-19T09:19:14Z",
             "owner": "ReactionMechanismGenerator",
             "repo": "RMG-Py",
             "stars": 529
@@ -417,6 +455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17209064,
             "language": "Python",
             "last_commit": "2024-05-30T13:47:51Z",
             "owner": "guillemborrell",
@@ -428,7 +467,7 @@
       "title": "Thermodynamics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -437,6 +476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18223131,
             "language": "C++",
             "last_commit": "2026-08-14T20:31:15Z",
             "owner": "NanoComp",
@@ -451,6 +491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3218028,
             "language": "Python",
             "last_commit": "2026-08-13T16:38:59Z",
             "owner": "scikit-rf",
@@ -465,11 +506,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43433739,
             "language": "Python",
-            "last_commit": "2026-08-18T22:00:13Z",
+            "last_commit": "2026-08-19T10:12:44Z",
             "owner": "gprMax",
             "repo": "gprMax",
-            "stars": 871
+            "stars": 872
           }
         },
         {
@@ -479,11 +521,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3997670,
             "language": "C++",
             "last_commit": "2026-08-15T20:03:27Z",
             "owner": "thliebig",
             "repo": "openEMS",
-            "stars": 712
+            "stars": 713
           }
         },
         {
@@ -493,6 +536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46810954,
             "language": "Python",
             "last_commit": "2026-08-18T03:13:19Z",
             "owner": "PlasmaPy",
@@ -507,6 +551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118933991,
             "language": "Python",
             "last_commit": "2026-08-17T13:42:02Z",
             "owner": "radis",
@@ -521,6 +566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4781578,
             "language": "Python",
             "last_commit": "2026-07-21T09:47:57Z",
             "owner": "lbolla",
@@ -535,6 +581,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24918428,
             "language": "C",
             "last_commit": "2020-06-16T03:50:46Z",
             "owner": "HomerReid",
@@ -549,6 +596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69043835,
             "language": "C++",
             "last_commit": "2025-10-14T14:08:47Z",
             "owner": "spirit-code",
@@ -563,6 +611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21679569,
             "language": "Python",
             "last_commit": "2025-08-27T22:00:19Z",
             "owner": "scikit-beam",
@@ -577,6 +626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6740410,
             "language": "Python",
             "last_commit": "2023-02-03T19:47:32Z",
             "owner": "hughesadam87",
@@ -591,6 +641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3290574,
             "language": "C++",
             "last_commit": "2026-08-17T23:29:49Z",
             "owner": "openmeeg",
@@ -605,6 +656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7939718,
             "language": "C++",
             "last_commit": "2014-09-15T14:25:07Z",
             "owner": "manucorporat",
@@ -619,6 +671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1207823,
             "language": "Python",
             "last_commit": "2012-05-22T21:33:28Z",
             "owner": "ScattPy",
@@ -630,7 +683,7 @@
       "title": "Electromagnetism"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -639,6 +692,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25439453,
             "language": "Python",
             "last_commit": "2025-04-14T13:58:37Z",
             "owner": "Sterncat",
@@ -653,6 +707,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80127706,
             "language": "Python",
             "last_commit": "2026-02-26T21:37:13Z",
             "owner": "opticspy",
@@ -667,6 +722,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23124734,
             "language": "Python",
             "last_commit": "2023-08-15T20:17:45Z",
             "owner": "quartiq",
@@ -681,6 +737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58852409,
             "language": "Rust",
             "last_commit": "2018-12-07T13:10:35Z",
             "owner": "Limeth",
@@ -695,6 +752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3987171,
             "language": "Python",
             "last_commit": "2026-08-18T12:57:37Z",
             "owner": "kaanaksit",
@@ -709,6 +767,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4206587,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-10T20:33:16Z",
             "owner": "mperrin",
@@ -723,6 +782,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24816520,
             "language": "Python",
             "last_commit": "2026-06-24T16:52:18Z",
             "owner": "raysect",
@@ -737,6 +797,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66976486,
             "language": "Jupyter Notebook",
             "last_commit": "2022-04-07T09:28:22Z",
             "owner": "martinchristen",
@@ -748,7 +809,7 @@
       "title": "Optics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -757,6 +818,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7274741,
             "language": "C#",
             "last_commit": "2024-05-02T23:21:08Z",
             "owner": "MITGameLab",
@@ -771,6 +833,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43831507,
             "language": "HTML",
             "last_commit": "2017-04-23T21:33:46Z",
             "owner": "agarciamontoro",
@@ -782,7 +845,7 @@
       "title": "Relativity"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -791,8 +854,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10994345,
             "language": "C++",
-            "last_commit": "2026-08-18T20:50:27Z",
+            "last_commit": "2026-08-19T11:41:10Z",
             "owner": "root-project",
             "repo": "root",
             "stars": 3283
@@ -805,6 +869,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6136261,
             "language": "Python",
             "last_commit": "2026-08-18T01:58:55Z",
             "owner": "qutip",
@@ -819,11 +884,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9174469,
             "language": "C++",
-            "last_commit": "2026-08-18T07:17:44Z",
+            "last_commit": "2026-08-19T09:16:34Z",
             "owner": "psi4",
             "repo": "psi4",
-            "stars": 1212
+            "stars": 1213
           }
         },
         {
@@ -833,6 +899,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 354661779,
             "language": "Python",
             "last_commit": "2025-01-04T04:46:23Z",
             "owner": "quantum-visualizations",
@@ -847,6 +914,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22481329,
             "language": "JavaScript",
             "last_commit": "2024-04-02T17:28:05Z",
             "owner": "particle-clicker",
@@ -861,8 +929,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54069751,
             "language": "Julia",
-            "last_commit": "2026-08-19T02:53:04Z",
+            "last_commit": "2026-08-19T12:37:11Z",
             "owner": "qojulia",
             "repo": "QuantumOptics.jl",
             "stars": 620
@@ -875,6 +944,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20161671,
             "language": "Python",
             "last_commit": "2026-01-18T10:40:16Z",
             "owner": "m-labs",
@@ -889,6 +959,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73710584,
             "language": "Python",
             "last_commit": "2026-08-17T20:29:25Z",
             "owner": "scikit-hep",
@@ -903,6 +974,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24794651,
             "language": "Python",
             "last_commit": "2015-01-19T15:08:40Z",
             "owner": "tpogden",
@@ -917,6 +989,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50420265,
             "language": "Python",
             "last_commit": "2026-06-16T12:01:46Z",
             "owner": "flav-io",
@@ -931,8 +1004,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47683530,
             "language": "Python",
-            "last_commit": "2026-08-10T09:27:11Z",
+            "last_commit": "2026-08-19T11:33:20Z",
             "owner": "HEPData",
             "repo": "hepdata",
             "stars": 45
@@ -942,7 +1016,7 @@
       "title": "Quantum Physics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -951,6 +1025,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2081289,
             "language": "Python",
             "last_commit": "2026-08-18T20:32:31Z",
             "owner": "astropy",
@@ -965,6 +1040,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2165383,
             "language": "Python",
             "last_commit": "2026-08-18T13:44:22Z",
             "owner": "sunpy",
@@ -979,6 +1055,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10058773,
             "language": "Python",
             "last_commit": "2026-08-18T21:41:14Z",
             "owner": "pynbody",
@@ -993,6 +1070,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17577779,
             "language": "Python",
             "last_commit": "2026-08-17T19:30:54Z",
             "owner": "adrn",
@@ -1004,7 +1082,7 @@
       "title": "Astrophysics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1013,6 +1091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14727320,
             "language": "Python",
             "last_commit": "2026-08-18T23:24:55Z",
             "owner": "simpeg",
@@ -1027,6 +1106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20499942,
             "language": "Python",
             "last_commit": "2026-07-04T19:57:46Z",
             "owner": "geodynamics",
@@ -1041,6 +1121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42916308,
             "language": "HTML",
             "last_commit": "2025-02-06T20:55:07Z",
             "owner": "geoscixyz",
@@ -1050,16 +1131,12 @@
         }
       ],
       "title": "Geophysics"
-    },
-    {
-      "description": "To the extent possible under law, wbierbower has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:01:44.105Z",
+    "last_updated": "2026-08-19T12:48:40.799Z",
     "original_repository": "wbierbower/awesome-physics",
+    "original_repository_id": 104597115,
     "original_repository_sha": "807186a1235f3b35aa969718e16b04480e4e5f6a",
     "enhanced_repository": "enhansome/enhansome-physics",
     "enhanced_repository_description": null,
