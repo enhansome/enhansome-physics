@@ -33,7 +33,7 @@
             "last_commit": "2025-10-22T02:13:14Z",
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14679
+            "stars": 14683
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2023-08-04T10:35:17Z",
             "owner": "schteppe",
             "repo": "cannon.js",
-            "stars": 4993
+            "stars": 4992
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2022-11-15T04:27:25Z",
             "owner": "NVIDIAGameWorks",
             "repo": "PhysX-3.4",
-            "stars": 2411
+            "stars": 2412
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-08-14T15:58:38Z",
             "owner": "InteractiveComputerGraphics",
             "repo": "PositionBasedDynamics",
-            "stars": 2260
+            "stars": 2261
           }
         },
         {
@@ -266,7 +266,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T12:04:08Z",
+            "last_commit": "2026-08-18T20:17:44Z",
             "owner": "gwastro",
             "repo": "pycbc",
             "stars": 388
@@ -365,7 +365,7 @@
             "last_commit": "2026-08-16T14:38:55Z",
             "owner": "CoolProp",
             "repo": "CoolProp",
-            "stars": 1051
+            "stars": 1052
           }
         },
         {
@@ -407,7 +407,7 @@
             "last_commit": "2026-08-17T11:50:58Z",
             "owner": "ReactionMechanismGenerator",
             "repo": "RMG-Py",
-            "stars": 528
+            "stars": 529
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-14T20:31:15Z",
             "owner": "NanoComp",
             "repo": "meep",
-            "stars": 1743
+            "stars": 1744
           }
         },
         {
@@ -466,7 +466,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-18T01:35:35Z",
+            "last_commit": "2026-08-18T22:00:13Z",
             "owner": "gprMax",
             "repo": "gprMax",
             "stars": 871
@@ -648,6 +648,20 @@
         },
         {
           "node_type": "item",
+          "title": "lightpipes",
+          "description": "Simulations of optical phenomena where diffraction is essential",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-26T21:37:13Z",
+            "owner": "opticspy",
+            "repo": "lightpipes",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
           "title": "rayopt",
           "description": "Python optics and lens design, raytracing",
           "children": [],
@@ -658,20 +672,6 @@
             "owner": "quartiq",
             "repo": "rayopt",
             "stars": 310
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lightpipes",
-          "description": "Simulations of optical phenomena where diffraction is essential",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-26T21:37:13Z",
-            "owner": "opticspy",
-            "repo": "lightpipes",
-            "stars": 309
           }
         },
         {
@@ -696,7 +696,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T19:38:31Z",
+            "last_commit": "2026-08-18T12:57:37Z",
             "owner": "kaanaksit",
             "repo": "odak",
             "stars": 215
@@ -792,7 +792,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-18T06:20:20Z",
+            "last_commit": "2026-08-18T20:50:27Z",
             "owner": "root-project",
             "repo": "root",
             "stars": 3283
@@ -820,7 +820,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-18T05:18:59Z",
+            "last_commit": "2026-08-18T07:17:44Z",
             "owner": "psi4",
             "repo": "psi4",
             "stars": 1212
@@ -862,7 +862,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-14T07:00:01Z",
+            "last_commit": "2026-08-19T02:53:04Z",
             "owner": "qojulia",
             "repo": "QuantumOptics.jl",
             "stars": 620
@@ -879,7 +879,7 @@
             "last_commit": "2026-01-18T10:40:16Z",
             "owner": "m-labs",
             "repo": "artiq",
-            "stars": 517
+            "stars": 516
           }
         },
         {
@@ -952,10 +952,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T14:43:16Z",
+            "last_commit": "2026-08-18T20:32:31Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5276
+            "stars": 5277
           }
         },
         {
@@ -966,7 +966,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T09:00:28Z",
+            "last_commit": "2026-08-18T13:44:22Z",
             "owner": "sunpy",
             "repo": "sunpy",
             "stars": 1033
@@ -980,7 +980,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T16:41:24Z",
+            "last_commit": "2026-08-18T21:41:14Z",
             "owner": "pynbody",
             "repo": "pynbody",
             "stars": 193
@@ -1014,10 +1014,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T00:47:36Z",
+            "last_commit": "2026-08-18T23:24:55Z",
             "owner": "simpeg",
             "repo": "simpeg",
-            "stars": 667
+            "stars": 668
           }
         },
         {
@@ -1058,7 +1058,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:00:44.509Z",
+    "last_updated": "2026-08-19T07:01:44.105Z",
     "original_repository": "wbierbower/awesome-physics",
     "original_repository_sha": "807186a1235f3b35aa969718e16b04480e4e5f6a",
     "enhanced_repository": "enhansome/enhansome-physics",
