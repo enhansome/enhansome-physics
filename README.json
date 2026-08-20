@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-17T14:14:36Z",
                 "owner": "liabru",
                 "repo": "matter-js",
-                "stars": 18367
+                "stars": 18368
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14683
+                "stars": 14684
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-08-04T10:35:17Z",
                 "owner": "schteppe",
                 "repo": "cannon.js",
-                "stars": 4992
+                "stars": 4993
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-14T15:58:38Z",
                 "owner": "InteractiveComputerGraphics",
                 "repo": "PositionBasedDynamics",
-                "stars": 2261
+                "stars": 2262
               }
             },
             {
@@ -283,10 +283,10 @@
                 "archived": false,
                 "id": 31596861,
                 "language": "Python",
-                "last_commit": "2026-08-18T20:17:44Z",
+                "last_commit": "2026-08-19T21:52:36Z",
                 "owner": "gwastro",
                 "repo": "pycbc",
-                "stars": 388
+                "stars": 387
               }
             },
             {
@@ -442,7 +442,7 @@
             "archived": false,
             "id": 332545,
             "language": "Python",
-            "last_commit": "2026-08-19T09:19:14Z",
+            "last_commit": "2026-08-19T22:36:43Z",
             "owner": "ReactionMechanismGenerator",
             "repo": "RMG-Py",
             "stars": 529
@@ -508,7 +508,7 @@
             "archived": false,
             "id": 43433739,
             "language": "Python",
-            "last_commit": "2026-08-19T10:12:44Z",
+            "last_commit": "2026-08-20T00:23:10Z",
             "owner": "gprMax",
             "repo": "gprMax",
             "stars": 872
@@ -526,7 +526,7 @@
             "last_commit": "2026-08-15T20:03:27Z",
             "owner": "thliebig",
             "repo": "openEMS",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -856,7 +856,7 @@
             "archived": false,
             "id": 10994345,
             "language": "C++",
-            "last_commit": "2026-08-19T11:41:10Z",
+            "last_commit": "2026-08-19T17:00:07Z",
             "owner": "root-project",
             "repo": "root",
             "stars": 3283
@@ -871,7 +871,7 @@
             "archived": false,
             "id": 6136261,
             "language": "Python",
-            "last_commit": "2026-08-18T01:58:55Z",
+            "last_commit": "2026-08-20T02:56:34Z",
             "owner": "qutip",
             "repo": "qutip",
             "stars": 2056
@@ -931,7 +931,7 @@
             "archived": false,
             "id": 54069751,
             "language": "Julia",
-            "last_commit": "2026-08-19T12:37:11Z",
+            "last_commit": "2026-08-19T15:36:34Z",
             "owner": "qojulia",
             "repo": "QuantumOptics.jl",
             "stars": 620
@@ -1030,7 +1030,7 @@
             "last_commit": "2026-08-18T20:32:31Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5277
+            "stars": 5276
           }
         },
         {
@@ -1093,7 +1093,7 @@
             "archived": false,
             "id": 14727320,
             "language": "Python",
-            "last_commit": "2026-08-18T23:24:55Z",
+            "last_commit": "2026-08-19T18:07:52Z",
             "owner": "simpeg",
             "repo": "simpeg",
             "stars": 668
@@ -1134,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:48:40.799Z",
+    "last_updated": "2026-08-20T07:02:25.566Z",
     "original_repository": "wbierbower/awesome-physics",
     "original_repository_id": 104597115,
     "original_repository_sha": "807186a1235f3b35aa969718e16b04480e4e5f6a",
