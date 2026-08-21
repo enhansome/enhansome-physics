@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-17T14:14:36Z",
                 "owner": "liabru",
                 "repo": "matter-js",
-                "stars": 18368
+                "stars": 18371
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14684
+                "stars": 14683
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 12146969,
                 "language": "C++",
-                "last_commit": "2026-08-12T20:09:58Z",
+                "last_commit": "2026-08-20T20:37:13Z",
                 "owner": "simbody",
                 "repo": "simbody",
                 "stars": 2544
@@ -152,7 +152,7 @@
                 "last_commit": "2026-01-17T19:29:44Z",
                 "owner": "MADEAPPS",
                 "repo": "newton-dynamics",
-                "stars": 1024
+                "stars": 1023
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2023-01-31T13:02:36Z",
                 "owner": "dimforge",
                 "repo": "ncollide",
-                "stars": 933
+                "stars": 927
               }
             },
             {
@@ -400,7 +400,7 @@
             "last_commit": "2026-08-16T14:38:55Z",
             "owner": "CoolProp",
             "repo": "CoolProp",
-            "stars": 1052
+            "stars": 1054
           }
         },
         {
@@ -508,7 +508,7 @@
             "archived": false,
             "id": 43433739,
             "language": "Python",
-            "last_commit": "2026-08-20T00:23:10Z",
+            "last_commit": "2026-08-20T18:35:00Z",
             "owner": "gprMax",
             "repo": "gprMax",
             "stars": 872
@@ -526,7 +526,7 @@
             "last_commit": "2026-08-15T20:03:27Z",
             "owner": "thliebig",
             "repo": "openEMS",
-            "stars": 714
+            "stars": 715
           }
         },
         {
@@ -769,7 +769,7 @@
             "archived": false,
             "id": 4206587,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-10T20:33:16Z",
+            "last_commit": "2026-08-20T13:45:22Z",
             "owner": "mperrin",
             "repo": "poppy",
             "stars": 191
@@ -856,7 +856,7 @@
             "archived": false,
             "id": 10994345,
             "language": "C++",
-            "last_commit": "2026-08-19T17:00:07Z",
+            "last_commit": "2026-08-21T05:45:22Z",
             "owner": "root-project",
             "repo": "root",
             "stars": 3283
@@ -871,10 +871,10 @@
             "archived": false,
             "id": 6136261,
             "language": "Python",
-            "last_commit": "2026-08-20T02:56:34Z",
+            "last_commit": "2026-08-21T00:36:41Z",
             "owner": "qutip",
             "repo": "qutip",
-            "stars": 2056
+            "stars": 2057
           }
         },
         {
@@ -886,10 +886,10 @@
             "archived": false,
             "id": 9174469,
             "language": "C++",
-            "last_commit": "2026-08-19T09:16:34Z",
+            "last_commit": "2026-08-21T06:34:50Z",
             "owner": "psi4",
             "repo": "psi4",
-            "stars": 1213
+            "stars": 1214
           }
         },
         {
@@ -931,7 +931,7 @@
             "archived": false,
             "id": 54069751,
             "language": "Julia",
-            "last_commit": "2026-08-19T15:36:34Z",
+            "last_commit": "2026-08-21T05:17:23Z",
             "owner": "qojulia",
             "repo": "QuantumOptics.jl",
             "stars": 620
@@ -961,7 +961,7 @@
             "archived": false,
             "id": 73710584,
             "language": "Python",
-            "last_commit": "2026-08-17T20:29:25Z",
+            "last_commit": "2026-08-20T17:56:50Z",
             "owner": "scikit-hep",
             "repo": "scikit-hep",
             "stars": 175
@@ -1042,7 +1042,7 @@
             "archived": false,
             "id": 2165383,
             "language": "Python",
-            "last_commit": "2026-08-18T13:44:22Z",
+            "last_commit": "2026-08-20T14:58:23Z",
             "owner": "sunpy",
             "repo": "sunpy",
             "stars": 1033
@@ -1057,7 +1057,7 @@
             "archived": false,
             "id": 10058773,
             "language": "Python",
-            "last_commit": "2026-08-18T21:41:14Z",
+            "last_commit": "2026-08-21T06:35:12Z",
             "owner": "pynbody",
             "repo": "pynbody",
             "stars": 193
@@ -1134,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:02:25.566Z",
+    "last_updated": "2026-08-21T07:04:10.120Z",
     "original_repository": "wbierbower/awesome-physics",
     "original_repository_id": 104597115,
     "original_repository_sha": "807186a1235f3b35aa969718e16b04480e4e5f6a",
