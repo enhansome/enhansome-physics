@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-17T14:14:36Z",
                 "owner": "liabru",
                 "repo": "matter-js",
-                "stars": 18371
+                "stars": 18372
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14683
+                "stars": 14685
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-08-04T10:35:17Z",
                 "owner": "schteppe",
                 "repo": "cannon.js",
-                "stars": 4993
+                "stars": 4994
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 12146969,
                 "language": "C++",
-                "last_commit": "2026-08-20T20:37:13Z",
+                "last_commit": "2026-08-21T09:44:38Z",
                 "owner": "simbody",
                 "repo": "simbody",
-                "stars": 2544
+                "stars": 2545
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-14T15:58:38Z",
                 "owner": "InteractiveComputerGraphics",
                 "repo": "PositionBasedDynamics",
-                "stars": 2262
+                "stars": 2263
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2023-12-24T21:45:32Z",
                 "owner": "doyubkim",
                 "repo": "fluid-engine-dev",
-                "stars": 2098
+                "stars": 2099
               }
             },
             {
@@ -283,7 +283,7 @@
                 "archived": false,
                 "id": 31596861,
                 "language": "Python",
-                "last_commit": "2026-08-19T21:52:36Z",
+                "last_commit": "2026-08-21T15:23:50Z",
                 "owner": "gwastro",
                 "repo": "pycbc",
                 "stars": 387
@@ -415,7 +415,7 @@
             "last_commit": "2026-08-12T23:19:16Z",
             "owner": "Cantera",
             "repo": "cantera",
-            "stars": 837
+            "stars": 838
           }
         },
         {
@@ -430,7 +430,7 @@
             "last_commit": "2026-07-13T02:05:58Z",
             "owner": "CalebBell",
             "repo": "thermo",
-            "stars": 778
+            "stars": 779
           }
         },
         {
@@ -442,7 +442,7 @@
             "archived": false,
             "id": 332545,
             "language": "Python",
-            "last_commit": "2026-08-19T22:36:43Z",
+            "last_commit": "2026-08-22T01:02:47Z",
             "owner": "ReactionMechanismGenerator",
             "repo": "RMG-Py",
             "stars": 529
@@ -478,7 +478,7 @@
             "archived": false,
             "id": 18223131,
             "language": "C++",
-            "last_commit": "2026-08-14T20:31:15Z",
+            "last_commit": "2026-08-21T21:30:46Z",
             "owner": "NanoComp",
             "repo": "meep",
             "stars": 1744
@@ -496,7 +496,7 @@
             "last_commit": "2026-08-13T16:38:59Z",
             "owner": "scikit-rf",
             "repo": "scikit-rf",
-            "stars": 925
+            "stars": 926
           }
         },
         {
@@ -538,7 +538,7 @@
             "archived": false,
             "id": 46810954,
             "language": "Python",
-            "last_commit": "2026-08-18T03:13:19Z",
+            "last_commit": "2026-08-21T22:53:53Z",
             "owner": "PlasmaPy",
             "repo": "PlasmaPy",
             "stars": 706
@@ -856,10 +856,10 @@
             "archived": false,
             "id": 10994345,
             "language": "C++",
-            "last_commit": "2026-08-21T05:45:22Z",
+            "last_commit": "2026-08-22T04:21:56Z",
             "owner": "root-project",
             "repo": "root",
-            "stars": 3283
+            "stars": 3284
           }
         },
         {
@@ -871,7 +871,7 @@
             "archived": false,
             "id": 6136261,
             "language": "Python",
-            "last_commit": "2026-08-21T00:36:41Z",
+            "last_commit": "2026-08-21T13:19:25Z",
             "owner": "qutip",
             "repo": "qutip",
             "stars": 2057
@@ -886,7 +886,7 @@
             "archived": false,
             "id": 9174469,
             "language": "C++",
-            "last_commit": "2026-08-21T06:34:50Z",
+            "last_commit": "2026-08-21T17:32:37Z",
             "owner": "psi4",
             "repo": "psi4",
             "stars": 1214
@@ -1006,7 +1006,7 @@
             "archived": false,
             "id": 47683530,
             "language": "Python",
-            "last_commit": "2026-08-19T11:33:20Z",
+            "last_commit": "2026-08-21T14:00:14Z",
             "owner": "HEPData",
             "repo": "hepdata",
             "stars": 45
@@ -1030,7 +1030,7 @@
             "last_commit": "2026-08-18T20:32:31Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5276
+            "stars": 5278
           }
         },
         {
@@ -1057,7 +1057,7 @@
             "archived": false,
             "id": 10058773,
             "language": "Python",
-            "last_commit": "2026-08-21T06:35:12Z",
+            "last_commit": "2026-08-21T07:14:39Z",
             "owner": "pynbody",
             "repo": "pynbody",
             "stars": 193
@@ -1093,7 +1093,7 @@
             "archived": false,
             "id": 14727320,
             "language": "Python",
-            "last_commit": "2026-08-19T18:07:52Z",
+            "last_commit": "2026-08-22T01:36:19Z",
             "owner": "simpeg",
             "repo": "simpeg",
             "stars": 668
@@ -1134,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:04:10.120Z",
+    "last_updated": "2026-08-22T06:56:27.825Z",
     "original_repository": "wbierbower/awesome-physics",
     "original_repository_id": 104597115,
     "original_repository_sha": "807186a1235f3b35aa969718e16b04480e4e5f6a",
