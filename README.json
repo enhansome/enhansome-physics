@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "scikit-kinematics",
+              "description": "Python functions for working with 3D kinematics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55969719,
+                "language": "Python",
+                "last_commit": "2026-07-22T20:27:28Z",
+                "owner": "thomas-haslwanter",
+                "repo": "scikit-kinematics",
+                "stars": 142
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Kinematics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "matter-js",
               "description": "A 2D rigid body physics engine for the web",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2024-08-17T14:14:36Z",
                 "owner": "liabru",
                 "repo": "matter-js",
-                "stars": 18376
+                "stars": 18378
               }
             },
             {
@@ -234,7 +256,7 @@
                 "last_commit": "2025-04-16T09:41:48Z",
                 "owner": "DualSPHysics",
                 "repo": "DualSPHysics",
-                "stars": 742
+                "stars": 743
               }
             },
             {
@@ -381,6 +403,28 @@
           "description": null,
           "node_type": "group",
           "title": "Mechanical Waves"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "python-acoustics",
+              "description": "A Python library aimed at acousticians",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 14710112,
+                "language": "Python",
+                "last_commit": "2023-12-10T22:34:10Z",
+                "owner": "python-acoustics",
+                "repo": "python-acoustics",
+                "stars": 563
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sound"
         }
       ],
       "title": "Waves and Acoustics"
@@ -400,7 +444,7 @@
             "last_commit": "2026-08-24T02:01:27Z",
             "owner": "CoolProp",
             "repo": "CoolProp",
-            "stars": 1056
+            "stars": 1057
           }
         },
         {
@@ -415,7 +459,7 @@
             "last_commit": "2026-08-12T23:19:16Z",
             "owner": "Cantera",
             "repo": "cantera",
-            "stars": 841
+            "stars": 842
           }
         },
         {
@@ -481,7 +525,7 @@
             "last_commit": "2026-08-21T21:30:46Z",
             "owner": "NanoComp",
             "repo": "meep",
-            "stars": 1746
+            "stars": 1747
           }
         },
         {
@@ -538,7 +582,7 @@
             "archived": false,
             "id": 46810954,
             "language": "Python",
-            "last_commit": "2026-08-21T22:53:53Z",
+            "last_commit": "2026-08-24T13:58:32Z",
             "owner": "PlasmaPy",
             "repo": "PlasmaPy",
             "stars": 706
@@ -697,7 +741,7 @@
             "last_commit": "2025-04-14T13:58:37Z",
             "owner": "Sterncat",
             "repo": "opticspy",
-            "stars": 552
+            "stars": 551
           }
         },
         {
@@ -856,10 +900,10 @@
             "archived": false,
             "id": 10994345,
             "language": "C++",
-            "last_commit": "2026-08-23T05:41:35Z",
+            "last_commit": "2026-08-24T08:19:54Z",
             "owner": "root-project",
             "repo": "root",
-            "stars": 3285
+            "stars": 3286
           }
         },
         {
@@ -871,7 +915,7 @@
             "archived": false,
             "id": 6136261,
             "language": "Python",
-            "last_commit": "2026-08-21T13:19:25Z",
+            "last_commit": "2026-08-24T14:16:32Z",
             "owner": "qutip",
             "repo": "qutip",
             "stars": 2057
@@ -1027,7 +1071,7 @@
             "archived": false,
             "id": 2081289,
             "language": "Python",
-            "last_commit": "2026-08-23T13:30:15Z",
+            "last_commit": "2026-08-24T13:53:24Z",
             "owner": "astropy",
             "repo": "astropy",
             "stars": 5284
@@ -1134,7 +1178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:16:50.843Z",
+    "last_updated": "2026-08-24T14:18:46.622Z",
     "original_repository": "wbierbower/awesome-physics",
     "original_repository_id": 104597115,
     "original_repository_sha": "807186a1235f3b35aa969718e16b04480e4e5f6a",
