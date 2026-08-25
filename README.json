@@ -54,7 +54,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14694
+                "stars": 14695
               }
             },
             {
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 12146969,
                 "language": "C++",
-                "last_commit": "2026-08-24T18:46:42Z",
+                "last_commit": "2026-08-25T07:04:10Z",
                 "owner": "simbody",
                 "repo": "simbody",
                 "stars": 2545
@@ -900,7 +900,7 @@
             "archived": false,
             "id": 10994345,
             "language": "C++",
-            "last_commit": "2026-08-25T06:01:34Z",
+            "last_commit": "2026-08-25T06:25:02Z",
             "owner": "root-project",
             "repo": "root",
             "stars": 3286
@@ -1074,7 +1074,7 @@
             "last_commit": "2026-08-24T16:14:57Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5285
+            "stars": 5286
           }
         },
         {
@@ -1178,7 +1178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:34.717Z",
+    "last_updated": "2026-08-25T07:05:14.895Z",
     "original_repository": "wbierbower/awesome-physics",
     "original_repository_id": 104597115,
     "original_repository_sha": "807186a1235f3b35aa969718e16b04480e4e5f6a",
