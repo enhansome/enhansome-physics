@@ -39,7 +39,7 @@
                 "last_commit": "2024-08-17T14:14:36Z",
                 "owner": "liabru",
                 "repo": "matter-js",
-                "stars": 18384
+                "stars": 18385
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14699
+                "stars": 14698
               }
             },
             {
@@ -522,7 +522,7 @@
             "archived": false,
             "id": 18223131,
             "language": "C++",
-            "last_commit": "2026-08-27T02:25:35Z",
+            "last_commit": "2026-08-27T17:09:03Z",
             "owner": "NanoComp",
             "repo": "meep",
             "stars": 1752
@@ -552,7 +552,7 @@
             "archived": false,
             "id": 43433739,
             "language": "Python",
-            "last_commit": "2026-08-27T10:42:40Z",
+            "last_commit": "2026-08-27T14:45:32Z",
             "owner": "gprMax",
             "repo": "gprMax",
             "stars": 874
@@ -900,7 +900,7 @@
             "archived": false,
             "id": 10994345,
             "language": "C++",
-            "last_commit": "2026-08-27T08:31:14Z",
+            "last_commit": "2026-08-27T16:58:54Z",
             "owner": "root-project",
             "repo": "root",
             "stars": 3289
@@ -930,7 +930,7 @@
             "archived": false,
             "id": 9174469,
             "language": "C++",
-            "last_commit": "2026-08-27T05:22:40Z",
+            "last_commit": "2026-08-27T17:12:32Z",
             "owner": "psi4",
             "repo": "psi4",
             "stars": 1215
@@ -1071,10 +1071,10 @@
             "archived": false,
             "id": 2081289,
             "language": "Python",
-            "last_commit": "2026-08-27T11:56:52Z",
+            "last_commit": "2026-08-27T15:06:11Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5287
+            "stars": 5286
           }
         },
         {
@@ -1178,7 +1178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:49.917Z",
+    "last_updated": "2026-08-27T17:35:45.767Z",
     "original_repository_info": {
       "archived": false,
       "id": 104597115,
