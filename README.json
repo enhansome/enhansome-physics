@@ -18,7 +18,8 @@
                 "owner": "thomas-haslwanter",
                 "repo": "scikit-kinematics",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             }
           ],
           "description": null,
@@ -39,8 +40,9 @@
                 "last_commit": "2024-08-17T14:14:36Z",
                 "owner": "liabru",
                 "repo": "matter-js",
-                "stars": 18385
-              }
+                "stars": 18387
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -54,8 +56,9 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14698
-              }
+                "stars": 14703
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "schteppe",
                 "repo": "cannon.js",
                 "stars": 4996
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "openai",
                 "repo": "mujoco-py",
                 "stars": 3142
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "simbody",
                 "repo": "simbody",
                 "stars": 2547
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "NVIDIAGameWorks",
                 "repo": "PhysX-3.4",
                 "stars": 2412
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "InteractiveComputerGraphics",
                 "repo": "PositionBasedDynamics",
                 "stars": 2270
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "dimforge",
                 "repo": "nphysics",
                 "stars": 1648
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "viblo",
                 "repo": "pymunk",
                 "stars": 1062
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "MADEAPPS",
                 "repo": "newton-dynamics",
                 "stars": 1023
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "dimforge",
                 "repo": "ncollide",
                 "stars": 926
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "myphysicslab",
                 "repo": "myphysicslab",
                 "stars": 444
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "pydy",
                 "repo": "pydy",
                 "stars": 416
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             }
           ],
           "description": null,
@@ -242,7 +256,8 @@
                 "owner": "doyubkim",
                 "repo": "fluid-engine-dev",
                 "stars": 2099
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -256,8 +271,9 @@
                 "last_commit": "2025-04-16T09:41:48Z",
                 "owner": "DualSPHysics",
                 "repo": "DualSPHysics",
-                "stars": 744
-              }
+                "stars": 745
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "CalebBell",
                 "repo": "fluids",
                 "stars": 450
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "benma",
                 "repo": "pysph",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             }
           ],
           "description": null,
@@ -309,7 +327,8 @@
                 "owner": "gwastro",
                 "repo": "pycbc",
                 "stars": 387
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -324,7 +343,8 @@
                 "owner": "HermannBjorgvin",
                 "repo": "Gravity-Simulator",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -339,7 +359,8 @@
                 "owner": "bcamp1",
                 "repo": "Gravisim",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             }
           ],
           "description": null,
@@ -367,7 +388,8 @@
                 "owner": "pyrocko",
                 "repo": "pyrocko",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -382,7 +404,8 @@
                 "owner": "geodynamics",
                 "repo": "sw4",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             },
             {
               "node_type": "item",
@@ -397,7 +420,8 @@
                 "owner": "m-ender",
                 "repo": "webgl-ripples",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             }
           ],
           "description": null,
@@ -419,7 +443,8 @@
                 "owner": "python-acoustics",
                 "repo": "python-acoustics",
                 "stars": 563
-              }
+              },
+              "first_seen": "2026-08-28T18:36:47.597Z"
             }
           ],
           "description": null,
@@ -445,7 +470,8 @@
             "owner": "CoolProp",
             "repo": "CoolProp",
             "stars": 1062
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -459,8 +485,9 @@
             "last_commit": "2026-08-12T23:19:16Z",
             "owner": "Cantera",
             "repo": "cantera",
-            "stars": 845
-          }
+            "stars": 846
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -474,8 +501,9 @@
             "last_commit": "2026-07-13T02:05:58Z",
             "owner": "CalebBell",
             "repo": "thermo",
-            "stars": 780
-          }
+            "stars": 783
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -490,7 +518,8 @@
             "owner": "ReactionMechanismGenerator",
             "repo": "RMG-Py",
             "stars": 530
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -505,7 +534,8 @@
             "owner": "guillemborrell",
             "repo": "thermopy",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         }
       ],
       "title": "Thermodynamics"
@@ -522,11 +552,12 @@
             "archived": false,
             "id": 18223131,
             "language": "C++",
-            "last_commit": "2026-08-27T17:09:03Z",
+            "last_commit": "2026-08-27T23:41:05Z",
             "owner": "NanoComp",
             "repo": "meep",
-            "stars": 1752
-          }
+            "stars": 1755
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -541,7 +572,8 @@
             "owner": "scikit-rf",
             "repo": "scikit-rf",
             "stars": 926
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -552,11 +584,12 @@
             "archived": false,
             "id": 43433739,
             "language": "Python",
-            "last_commit": "2026-08-27T14:45:32Z",
+            "last_commit": "2026-08-28T14:08:06Z",
             "owner": "gprMax",
             "repo": "gprMax",
             "stars": 874
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -570,8 +603,9 @@
             "last_commit": "2026-08-25T09:37:19Z",
             "owner": "thliebig",
             "repo": "openEMS",
-            "stars": 717
-          }
+            "stars": 718
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -586,7 +620,8 @@
             "owner": "PlasmaPy",
             "repo": "PlasmaPy",
             "stars": 708
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -601,7 +636,8 @@
             "owner": "radis",
             "repo": "radis",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -616,7 +652,8 @@
             "owner": "lbolla",
             "repo": "EMpy",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -630,8 +667,9 @@
             "last_commit": "2020-06-16T03:50:46Z",
             "owner": "HomerReid",
             "repo": "scuff-em",
-            "stars": 169
-          }
+            "stars": 168
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -646,7 +684,8 @@
             "owner": "spirit-code",
             "repo": "spirit",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -661,7 +700,8 @@
             "owner": "scikit-beam",
             "repo": "scikit-beam",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -676,7 +716,8 @@
             "owner": "hughesadam87",
             "repo": "scikit-spectra",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -691,7 +732,8 @@
             "owner": "openmeeg",
             "repo": "openmeeg",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -706,7 +748,8 @@
             "owner": "manucorporat",
             "repo": "ElectricFieldSimulation",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -721,7 +764,8 @@
             "owner": "ScattPy",
             "repo": "scikits.scattpy",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         }
       ],
       "title": "Electromagnetism"
@@ -742,7 +786,8 @@
             "owner": "Sterncat",
             "repo": "opticspy",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -757,7 +802,8 @@
             "owner": "opticspy",
             "repo": "lightpipes",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -772,7 +818,8 @@
             "owner": "quartiq",
             "repo": "rayopt",
             "stars": 310
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -787,7 +834,8 @@
             "owner": "Limeth",
             "repo": "euclider",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -802,7 +850,8 @@
             "owner": "kaanaksit",
             "repo": "odak",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -817,7 +866,8 @@
             "owner": "mperrin",
             "repo": "poppy",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -832,7 +882,8 @@
             "owner": "raysect",
             "repo": "source",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -847,7 +898,8 @@
             "owner": "martinchristen",
             "repo": "pyRT",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         }
       ],
       "title": "Optics"
@@ -868,7 +920,8 @@
             "owner": "MITGameLab",
             "repo": "OpenRelativity",
             "stars": 777
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -883,7 +936,8 @@
             "owner": "agarciamontoro",
             "repo": "TFG",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         }
       ],
       "title": "Relativity"
@@ -900,11 +954,12 @@
             "archived": false,
             "id": 10994345,
             "language": "C++",
-            "last_commit": "2026-08-27T16:58:54Z",
+            "last_commit": "2026-08-28T17:05:37Z",
             "owner": "root-project",
             "repo": "root",
-            "stars": 3289
-          }
+            "stars": 3291
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -915,11 +970,12 @@
             "archived": false,
             "id": 6136261,
             "language": "Python",
-            "last_commit": "2026-08-25T19:46:13Z",
+            "last_commit": "2026-08-28T17:01:08Z",
             "owner": "qutip",
             "repo": "qutip",
-            "stars": 2062
-          }
+            "stars": 2063
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -930,11 +986,12 @@
             "archived": false,
             "id": 9174469,
             "language": "C++",
-            "last_commit": "2026-08-27T17:12:32Z",
+            "last_commit": "2026-08-28T17:54:08Z",
             "owner": "psi4",
             "repo": "psi4",
             "stars": 1215
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1006,8 @@
             "owner": "quantum-visualizations",
             "repo": "qmsolve",
             "stars": 1169
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1022,8 @@
             "owner": "particle-clicker",
             "repo": "particle-clicker",
             "stars": 683
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1038,8 @@
             "owner": "qojulia",
             "repo": "QuantumOptics.jl",
             "stars": 621
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1054,8 @@
             "owner": "m-labs",
             "repo": "artiq",
             "stars": 516
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -1009,7 +1070,8 @@
             "owner": "scikit-hep",
             "repo": "scikit-hep",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1086,8 @@
             "owner": "tpogden",
             "repo": "quantum-python-lectures",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1102,8 @@
             "owner": "flav-io",
             "repo": "flavio",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1118,8 @@
             "owner": "HEPData",
             "repo": "hepdata",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         }
       ],
       "title": "Quantum Physics"
@@ -1071,11 +1136,12 @@
             "archived": false,
             "id": 2081289,
             "language": "Python",
-            "last_commit": "2026-08-27T15:06:11Z",
+            "last_commit": "2026-08-28T09:38:45Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5286
-          }
+            "stars": 5289
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -1090,7 +1156,8 @@
             "owner": "sunpy",
             "repo": "sunpy",
             "stars": 1033
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -1105,7 +1172,8 @@
             "owner": "pynbody",
             "repo": "pynbody",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1188,8 @@
             "owner": "adrn",
             "repo": "gala",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         }
       ],
       "title": "Astrophysics"
@@ -1137,11 +1206,12 @@
             "archived": false,
             "id": 14727320,
             "language": "Python",
-            "last_commit": "2026-08-22T19:49:54Z",
+            "last_commit": "2026-08-28T17:51:25Z",
             "owner": "simpeg",
             "repo": "simpeg",
             "stars": 672
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1226,8 @@
             "owner": "geodynamics",
             "repo": "burnman",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         },
         {
           "node_type": "item",
@@ -1171,14 +1242,15 @@
             "owner": "geoscixyz",
             "repo": "em",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T18:36:47.597Z"
         }
       ],
       "title": "Geophysics"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:35:45.767Z",
+    "last_updated": "2026-08-28T18:36:47.597Z",
     "original_repository_info": {
       "archived": false,
       "id": 104597115,
