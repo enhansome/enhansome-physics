@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python functions for working with 3D kinematics.",
+                "homepage": null,
                 "id": 55969719,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-22T20:27:28Z",
+                "open_issues": 13,
                 "owner": "thomas-haslwanter",
                 "repo": "scikit-kinematics",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             }
@@ -35,12 +40,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a 2D rigid body physics engine for the web ▲● ■",
+                "homepage": null,
                 "id": 16986405,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-17T14:14:36Z",
+                "open_issues": 278,
                 "owner": "liabru",
                 "repo": "matter-js",
-                "stars": 18387
+                "stars": 18387,
+                "topics": [
+                  "canvas",
+                  "javascript",
+                  "physics",
+                  "physics-engine",
+                  "rigid-bodies",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -51,12 +68,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+                "homepage": "http://bulletphysics.org",
                 "id": 1605598,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-22T02:13:14Z",
+                "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14703
+                "stars": 14703,
+                "topics": [
+                  "computer-animation",
+                  "game-development",
+                  "kinematics",
+                  "pybullet",
+                  "reinforcement-learning",
+                  "robotics",
+                  "simulation",
+                  "simulator",
+                  "virtual-reality"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -67,12 +99,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight 3D physics engine written in JavaScript.",
+                "homepage": "http://schteppe.github.com/cannon.js",
                 "id": 3100209,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-04T10:35:17Z",
+                "open_issues": 212,
                 "owner": "schteppe",
                 "repo": "cannon.js",
-                "stars": 4996
+                "stars": 4996,
+                "topics": [
+                  "javascript",
+                  "physics-engine"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -83,12 +123,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                "homepage": null,
                 "id": 56986017,
                 "language": "Cython",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-10T12:47:21Z",
+                "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3142
+                "stars": 3142,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -99,12 +144,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.",
+                "homepage": "https://simtk.org/home/simbody",
                 "id": 12146969,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T16:50:51Z",
+                "open_issues": 158,
                 "owner": "simbody",
                 "repo": "simbody",
-                "stars": 2547
+                "stars": 2547,
+                "topics": [
+                  "biomechanics",
+                  "multibody-dynamics",
+                  "physics-engine",
+                  "physics-simulation",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -115,12 +171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NVIDIA PhysX SDK 3.4",
+                "homepage": "https://www.nvidia.com/",
                 "id": 70719606,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-11-15T04:27:25Z",
+                "open_issues": 59,
                 "owner": "NVIDIAGameWorks",
                 "repo": "PhysX-3.4",
-                "stars": 2412
+                "stars": 2412,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -131,12 +192,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PositionBasedDynamics is a library for the physically-based simulation of rigid bodies, deformable solids and fluids.",
+                "homepage": null,
                 "id": 35102707,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-14T15:58:38Z",
+                "open_issues": 11,
                 "owner": "InteractiveComputerGraphics",
                 "repo": "PositionBasedDynamics",
-                "stars": 2270
+                "stars": 2270,
+                "topics": [
+                  "deformable-solids",
+                  "position-based-dynamics",
+                  "rigid-bodies",
+                  "rigid-body-dynamics",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -147,12 +219,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2 and 3-dimensional rigid body physics engine for Rust.",
+                "homepage": null,
                 "id": 10066380,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-27T08:26:13Z",
+                "open_issues": 44,
                 "owner": "dimforge",
                 "repo": "nphysics",
-                "stars": 1648
+                "stars": 1648,
+                "topics": [
+                  "joints",
+                  "physics",
+                  "physics-engine",
+                  "rigid-bodies"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -163,12 +245,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python",
+                "homepage": "http://www.pymunk.org",
                 "id": 13273472,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-06T06:53:29Z",
+                "open_issues": 33,
                 "owner": "viblo",
                 "repo": "pymunk",
-                "stars": 1062
+                "stars": 1062,
+                "topics": [
+                  "library",
+                  "physics-2d",
+                  "physics-engine",
+                  "physics-simulation",
+                  "pygame",
+                  "pyglet",
+                  "python",
+                  "python-library"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -179,12 +275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Newton Dynamics is an integrated solution for real time simulation of physics environments.",
+                "homepage": "http://www.newtondynamics.com",
                 "id": 21649756,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-17T19:29:44Z",
+                "open_issues": 1,
                 "owner": "MADEAPPS",
                 "repo": "newton-dynamics",
-                "stars": 1023
+                "stars": 1023,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -195,12 +296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2 and 3-dimensional collision detection library in Rust.",
+                "homepage": "https://ncollide.org",
                 "id": 10066282,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-31T13:02:36Z",
+                "open_issues": 77,
                 "owner": "dimforge",
                 "repo": "ncollide",
-                "stars": 926
+                "stars": 926,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -211,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "myPhysicsLab provides JavaScript classes to build real-time interactive animated physics simulations",
+                "homepage": null,
                 "id": 71400491,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-25T17:09:58Z",
+                "open_issues": 2,
                 "owner": "myphysicslab",
                 "repo": "myphysicslab",
-                "stars": 444
+                "stars": 444,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -227,12 +338,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multibody dynamics tool kit.",
+                "homepage": "http://www.pydy.org",
                 "id": 12165060,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-28T12:29:05Z",
+                "open_issues": 88,
                 "owner": "pydy",
                 "repo": "pydy",
-                "stars": 416
+                "stars": 416,
+                "topics": [
+                  "dynamics",
+                  "physics",
+                  "python",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             }
@@ -250,12 +371,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fluid simulation engine for computer graphics applications",
+                "homepage": "https://fluidenginedevelopment.org/",
                 "id": 58299041,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-12-24T21:45:32Z",
+                "open_issues": 60,
                 "owner": "doyubkim",
                 "repo": "fluid-engine-dev",
-                "stars": 2099
+                "stars": 2099,
+                "topics": [
+                  "animation",
+                  "c-plus-plus",
+                  "computational-fluid-dynamics",
+                  "computational-physics",
+                  "computer-graphics",
+                  "fluid-simulation-engine",
+                  "physics-engine"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -266,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) Solver",
+                "homepage": null,
                 "id": 111666996,
                 "language": "C++",
+                "license": "LGPL-2.1",
                 "last_commit": "2025-04-16T09:41:48Z",
+                "open_issues": 181,
                 "owner": "DualSPHysics",
                 "repo": "DualSPHysics",
-                "stars": 745
+                "stars": 745,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -282,12 +421,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fluid dynamics component of Chemical Engineering Design Library (ChEDL)",
+                "homepage": null,
                 "id": 48924523,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-26T16:23:23Z",
+                "open_issues": 2,
                 "owner": "CalebBell",
                 "repo": "fluids",
-                "stars": 450
+                "stars": 450,
+                "topics": [
+                  "atmosphere",
+                  "chemical-engineering",
+                  "compressible-fluid-dynamics",
+                  "drag",
+                  "engineering",
+                  "fluid-dynamics",
+                  "friction",
+                  "mechanical-engineering",
+                  "open-channel",
+                  "particle-size-distribution",
+                  "pipe",
+                  "pipeline",
+                  "pressure-drop",
+                  "process-simulation",
+                  "pump",
+                  "reynolds",
+                  "sedimentation",
+                  "tank",
+                  "two-phase",
+                  "valve"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -298,12 +463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SPH fluid simulation with advanced screen space fluid rendering, using pyopengl and pyopencl.",
+                "homepage": null,
                 "id": 4177205,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2013-06-24T11:45:01Z",
+                "open_issues": 0,
                 "owner": "benma",
                 "repo": "pysph",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             }
@@ -321,12 +491,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Core package to analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of gravitational waves (GW150914), and is used in the ongoing analysis of LIGO/Virgo data.  ",
+                "homepage": "http://pycbc.org",
                 "id": 31596861,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T20:59:33Z",
+                "open_issues": 256,
                 "owner": "gwastro",
                 "repo": "pycbc",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "analysis",
+                  "astronomy",
+                  "black-hole",
+                  "cosmic-explorer",
+                  "einstein-telescope",
+                  "gravitational-waves",
+                  "gravity",
+                  "gwastro",
+                  "ligo",
+                  "lisa",
+                  "neutron-star",
+                  "open-science",
+                  "physics",
+                  "pycbc",
+                  "python",
+                  "signal-processing",
+                  "virgo"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -337,12 +530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Newtonian gravity simulator game that I made 10 years ago",
+                "homepage": "https://hermann.is/gravity",
                 "id": 31847345,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-12-04T00:14:53Z",
+                "open_issues": 4,
                 "owner": "HermannBjorgvin",
                 "repo": "Gravity-Simulator",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -353,12 +551,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A universal gravity simulator written using rust_sdl2",
+                "homepage": null,
                 "id": 170027712,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2022-08-11T00:39:50Z",
+                "open_issues": 5,
                 "owner": "bcamp1",
                 "repo": "Gravisim",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             }
@@ -382,12 +585,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official read-only mirror of https://git.pyrocko.org/pyrocko/pyrocko. A seismology toolkit for Python.",
+                "homepage": "https://pyrocko.org",
                 "id": 557212,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-04T13:05:36Z",
+                "open_issues": 46,
                 "owner": "pyrocko",
                 "repo": "pyrocko",
-                "stars": 248
+                "stars": 248,
+                "topics": [
+                  "earthquake",
+                  "geophysical-inversions",
+                  "geophysics",
+                  "python",
+                  "seismology"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -398,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SW4 (Seismic Waves, 4th order) implements substantial capabilities for 3-D seismic modeling, with a free surface condition on the top boundary, absorbing super-grid conditions on the far-field boundaries, and an arbitrary number of point force and/or point moment tensor source terms.",
+                "homepage": null,
                 "id": 25608392,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-27T17:52:30Z",
+                "open_issues": 35,
                 "owner": "geodynamics",
                 "repo": "sw4",
-                "stars": 161
+                "stars": 161,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             },
@@ -414,12 +633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A physically realistic real-time simulation of (transversal) 2D waves in WebGL.",
+                "homepage": "http://m-ender.github.io/webgl-ripples/",
                 "id": 10322667,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-06-13T07:25:14Z",
+                "open_issues": 1,
                 "owner": "m-ender",
                 "repo": "webgl-ripples",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             }
@@ -437,12 +661,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Python library aimed at acousticians.",
+                "homepage": null,
                 "id": 14710112,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-12-10T22:34:10Z",
+                "open_issues": 32,
                 "owner": "python-acoustics",
                 "repo": "python-acoustics",
-                "stars": 563
+                "stars": 563,
+                "topics": [
+                  "acoustics",
+                  "audio",
+                  "python",
+                  "signal-processing"
+                ]
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
             }
@@ -464,12 +698,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thermophysical properties for the masses",
+            "homepage": "http://coolprop.org/",
             "id": 19775824,
             "language": "C++",
-            "last_commit": "2026-08-24T02:01:27Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:24:41Z",
+            "open_issues": 88,
             "owner": "CoolProp",
             "repo": "CoolProp",
-            "stars": 1062
+            "stars": 1062,
+            "topics": [
+              "fluid-properties",
+              "thermodynamics"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -480,12 +722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chemical kinetics, thermodynamics, and transport tool suite",
+            "homepage": "https://cantera.org",
             "id": 32940327,
             "language": "C++",
-            "last_commit": "2026-08-12T23:19:16Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T20:08:01Z",
+            "open_issues": 59,
             "owner": "Cantera",
             "repo": "cantera",
-            "stars": 846
+            "stars": 847,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -496,12 +743,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thermodynamics and Phase Equilibrium component of Chemical Engineering Design Library (ChEDL)",
+            "homepage": null,
             "id": 62404647,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-13T02:05:58Z",
+            "open_issues": 13,
             "owner": "CalebBell",
             "repo": "thermo",
-            "stars": 783
+            "stars": 784,
+            "topics": [
+              "chemical-engineering",
+              "cheminformatics",
+              "chemistry",
+              "combustion",
+              "density",
+              "environmental-engineering",
+              "equation-of-state",
+              "heat-capacity",
+              "mechanical-engineering",
+              "molecule",
+              "physics",
+              "process-simulation",
+              "solubility",
+              "surface-tension",
+              "thermal-conductivity",
+              "thermodynamics",
+              "vapor-pressure",
+              "viscosity"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -512,12 +783,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python version of the amazing Reaction Mechanism Generator (RMG).",
+            "homepage": "http://reactionmechanismgenerator.github.io/RMG-Py/",
             "id": 332545,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T01:36:41Z",
+            "open_issues": 41,
             "owner": "ReactionMechanismGenerator",
             "repo": "RMG-Py",
-            "stars": 530
+            "stars": 530,
+            "topics": [
+              "chemistry",
+              "chemistry-discovery",
+              "kinetics",
+              "python",
+              "reactions",
+              "thermodynamics"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -528,12 +811,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for thermodynamics.",
+            "homepage": null,
             "id": 17209064,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-30T13:47:51Z",
+            "open_issues": 1,
             "owner": "guillemborrell",
             "repo": "thermopy",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         }
@@ -550,12 +838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "free finite-difference time-domain (FDTD) software for electromagnetic simulations",
+            "homepage": null,
             "id": 18223131,
             "language": "C++",
-            "last_commit": "2026-08-27T23:41:05Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-28T20:15:58Z",
+            "open_issues": 382,
             "owner": "NanoComp",
             "repo": "meep",
-            "stars": 1755
+            "stars": 1755,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -566,12 +859,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RF and Microwave Engineering Scikit ",
+            "homepage": "http://scikit-rf.org",
             "id": 3218028,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T11:21:39Z",
+            "open_issues": 53,
             "owner": "scikit-rf",
             "repo": "scikit-rf",
-            "stars": 926
+            "stars": 926,
+            "topics": [
+              "electronics",
+              "engineering",
+              "microwave-engineering",
+              "python",
+              "scikit-rf"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -582,12 +886,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gprMax is open source software that simulates electromagnetic wave propagation using the Finite-Difference Time-Domain (FDTD) method for numerical modelling of Ground Penetrating Radar (GPR)",
+            "homepage": "https://www.gprmax.com",
             "id": 43433739,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T14:08:06Z",
+            "open_issues": 89,
             "owner": "gprMax",
             "repo": "gprMax",
-            "stars": 874
+            "stars": 875,
+            "topics": [
+              "antenna",
+              "cuda",
+              "electromagnetic",
+              "fdtd",
+              "gpr",
+              "gpu",
+              "modelling",
+              "nvidia",
+              "python",
+              "simulation",
+              "soil"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -598,12 +919,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "openEMS is a free and open-source electromagnetic field solver using the EC-FDTD method.",
+            "homepage": "http://openEMS.de",
             "id": 3997670,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T09:37:19Z",
+            "open_issues": 10,
             "owner": "thliebig",
             "repo": "openEMS",
-            "stars": 718
+            "stars": 718,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -614,12 +940,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source Python package for plasma research and education",
+            "homepage": "https://docs.plasmapy.org",
             "id": 46810954,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T17:55:55Z",
+            "open_issues": 349,
             "owner": "PlasmaPy",
             "repo": "PlasmaPy",
-            "stars": 708
+            "stars": 708,
+            "topics": [
+              "astronomy",
+              "astrophysics",
+              "atomic-physics",
+              "fusion",
+              "hedp",
+              "heliophysics",
+              "high-energy-density-physics",
+              "particles",
+              "plasma-physics",
+              "plasma-science",
+              "python",
+              "science",
+              "solar",
+              "space-physics",
+              "space-plasma-physics"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -630,12 +977,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌱 A fast line-by-line code for high-resolution infrared molecular spectra",
+            "homepage": "http://radis.github.io/",
             "id": 118933991,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-17T13:42:02Z",
+            "open_issues": 65,
             "owner": "radis",
             "repo": "radis",
-            "stars": 278
+            "stars": 278,
+            "topics": [
+              "astrophysics",
+              "closember",
+              "combustion",
+              "exoplanets",
+              "hitemp",
+              "hitran",
+              "infrared",
+              "plasma",
+              "plasma-physics",
+              "radiation",
+              "spectra",
+              "spectroscopy"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -646,12 +1011,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Electromagnetic Python",
+            "homepage": "https://lbolla.github.io/EMpy/",
             "id": 4781578,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T02:36:18Z",
+            "open_issues": 3,
             "owner": "lbolla",
             "repo": "EMpy",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "electromagnetism",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -662,12 +1035,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive and full-featured computational physics suite for boundary-element analysis of electromagnetic scattering, fluctuation-induced phenomena (Casimir forces and radiative heat transfer), nanophotonics, RF device engineering, electrostatics, and more. Includes a core library with C++ and python APIs as well as many command-line applications.  ",
+            "homepage": "http://www.homerreid.com/scuff-em",
             "id": 24918428,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2020-06-16T03:50:46Z",
+            "open_issues": 112,
             "owner": "HomerReid",
             "repo": "scuff-em",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -678,12 +1056,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atomistic Spin Simulation Framework",
+            "homepage": "http://spirit-code.github.io",
             "id": 69043835,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-10-14T14:08:47Z",
+            "open_issues": 145,
             "owner": "spirit-code",
             "repo": "spirit",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "c-plus-plus",
+              "cmake",
+              "cross-platform",
+              "cuda-backend",
+              "forschungszentrum-juelich",
+              "framework",
+              "magnetism",
+              "optimization",
+              "physics",
+              "physics-simulation",
+              "python",
+              "scientific",
+              "scientific-computing",
+              "simulation",
+              "spin-dynamics",
+              "visualisation"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -694,12 +1094,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data analysis tools for X-Ray, Neutron and Electron sciences",
+            "homepage": null,
             "id": 21679569,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-08-27T22:00:19Z",
+            "open_issues": 84,
             "owner": "scikit-beam",
             "repo": "scikit-beam",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -710,12 +1115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python pandas-based toolkit for explorative spectroscopy, in particular UVVis spectroscopic data.",
+            "homepage": null,
             "id": 6740410,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-03T19:47:32Z",
+            "open_issues": 79,
             "owner": "hughesadam87",
             "repo": "scikit-spectra",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -726,12 +1136,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C++ package for low-frequency bio-electromagnetism solving forward problems in the field of EEG and MEG.",
+            "homepage": "http://openmeeg.github.io",
             "id": 3290574,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T17:57:25Z",
+            "open_issues": 54,
             "owner": "openmeeg",
             "repo": "openmeeg",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "bem",
+              "c-plus-plus",
+              "eeg",
+              "electromagnetism",
+              "forward-problem",
+              "meg"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -742,12 +1164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An experimental example of how to use OpenGL for physical simulations. All the simulation runs concurrently in the GPU using my own engine as the rendering layer. GPUElectric potential and field simulation using FORZE2D lib. Universidad de valladolid 2013.",
+            "homepage": null,
             "id": 7939718,
             "language": "C++",
+            "license": null,
             "last_commit": "2014-09-15T14:25:07Z",
+            "open_issues": 1,
             "owner": "manucorporat",
             "repo": "ElectricFieldSimulation",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -758,12 +1185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Light Scattering Methods for Python",
+            "homepage": "scattpy.github.com",
             "id": 1207823,
             "language": "Python",
+            "license": null,
             "last_commit": "2012-05-22T21:33:28Z",
+            "open_issues": 10,
             "owner": "ScattPy",
             "repo": "scikits.scattpy",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         }
@@ -780,12 +1212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "python optics module",
+            "homepage": null,
             "id": 25439453,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-14T13:58:37Z",
+            "open_issues": 33,
             "owner": "Sterncat",
             "repo": "opticspy",
-            "stars": 551
+            "stars": 551,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -796,12 +1233,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LightPipes for Python, \"Pure Python version\"",
+            "homepage": "https://opticspy.github.io/lightpipes/",
             "id": 80127706,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-26T21:37:13Z",
+            "open_issues": 52,
             "owner": "opticspy",
             "repo": "lightpipes",
-            "stars": 311
+            "stars": 311,
+            "topics": [
+              "optics",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -812,12 +1257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python optics and lens design, raytracing",
+            "homepage": null,
             "id": 23124734,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2023-08-15T20:17:45Z",
+            "open_issues": 13,
             "owner": "quartiq",
             "repo": "rayopt",
-            "stars": 310
+            "stars": 310,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -828,12 +1278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A higher dimensional raytracing prototype with non-euclidean-like features",
+            "homepage": null,
             "id": 58852409,
             "language": "Rust",
+            "license": "Unlicense",
             "last_commit": "2018-12-07T13:10:35Z",
+            "open_issues": 6,
             "owner": "Limeth",
             "repo": "euclider",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -844,12 +1299,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scientific computing library for optics, computer graphics and visual perception.",
+            "homepage": "https://kaanaksit.com/odak",
             "id": 3987171,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-24T19:18:27Z",
+            "open_issues": 0,
             "owner": "kaanaksit",
             "repo": "odak",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "cluster-computing",
+              "color",
+              "computational-display",
+              "computational-imaging",
+              "computational-optics",
+              "computer-generated-holography",
+              "computer-graphics",
+              "deep-learning",
+              "holography",
+              "jones-calculus",
+              "lensless",
+              "machine-learning",
+              "numpy",
+              "odak",
+              "optics",
+              "perception",
+              "python",
+              "pytorch",
+              "raytracing",
+              "wave-optics"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -860,12 +1341,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Physical Optics Propagation in Python",
+            "homepage": null,
             "id": 4206587,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-20T13:45:22Z",
+            "open_issues": 31,
             "owner": "mperrin",
             "repo": "poppy",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "astronomy",
+              "diffraction",
+              "optics",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -876,12 +1367,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The main source repository for the Raysect project.",
+            "homepage": "http://www.raysect.org",
             "id": 24816520,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-24T16:52:18Z",
+            "open_issues": 85,
             "owner": "raysect",
             "repo": "source",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "cython",
+              "framework",
+              "optics",
+              "python",
+              "raytracer",
+              "science",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -892,12 +1396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pyRT - The Python Raytracer",
+            "homepage": null,
             "id": 66976486,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-07T09:28:22Z",
+            "open_issues": 7,
             "owner": "martinchristen",
             "repo": "pyRT",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         }
@@ -914,12 +1423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source framework to add the effects of traveling at relativistic speeds to visualizations or games",
+            "homepage": null,
             "id": 7274741,
             "language": "C#",
+            "license": null,
             "last_commit": "2024-05-02T23:21:08Z",
+            "open_issues": 6,
             "owner": "MITGameLab",
             "repo": "OpenRelativity",
-            "stars": 777
+            "stars": 777,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -930,12 +1444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "General Relativity massively parallel raytracer - a free software alternative",
+            "homepage": null,
             "id": 43831507,
             "language": "HTML",
+            "license": "GPL-2.0",
             "last_commit": "2017-04-23T21:33:46Z",
+            "open_issues": 0,
             "owner": "agarciamontoro",
             "repo": "TFG",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         }
@@ -952,12 +1471,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repository for ROOT: analyzing, storing and visualizing big data, scientifically",
+            "homepage": "https://root.cern",
             "id": 10994345,
             "language": "C++",
-            "last_commit": "2026-08-28T17:05:37Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:47:28Z",
+            "open_issues": 672,
             "owner": "root-project",
             "repo": "root",
-            "stars": 3291
+            "stars": 3291,
+            "topics": [
+              "c-plus-plus",
+              "cling",
+              "data-analysis",
+              "geometry",
+              "graphics",
+              "hacktoberfest",
+              "interpreter",
+              "machine-learning",
+              "mathematics",
+              "parallel",
+              "physics",
+              "python",
+              "root",
+              "root-cern",
+              "statistics",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -968,12 +1509,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuTiP: Quantum Toolbox in Python",
+            "homepage": "https://qutip.org",
             "id": 6136261,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T17:01:08Z",
+            "open_issues": 115,
             "owner": "qutip",
             "repo": "qutip",
-            "stars": 2063
+            "stars": 2063,
+            "topics": [
+              "python",
+              "quantum",
+              "quantum-computing",
+              "quantum-information",
+              "quantum-mechanics",
+              "quantum-optics",
+              "quantum-toolbox",
+              "qutip",
+              "unitaryhack"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -984,12 +1540,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source Quantum Chemistry – an electronic structure package in C++ driven by Python",
+            "homepage": "http://psicode.org",
             "id": 9174469,
             "language": "C++",
-            "last_commit": "2026-08-28T17:54:08Z",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-28T21:10:50Z",
+            "open_issues": 489,
             "owner": "psi4",
             "repo": "psi4",
-            "stars": 1215
+            "stars": 1215,
+            "topics": [
+              "c-plus-plus",
+              "chemistry",
+              "computational-chemistry",
+              "physics",
+              "python",
+              "quantum-chemistry"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1000,12 +1568,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚛️ A module for solving and visualizing the Schrödinger equation.",
+            "homepage": null,
             "id": 354661779,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-01-04T04:46:23Z",
+            "open_issues": 15,
             "owner": "quantum-visualizations",
             "repo": "qmsolve",
-            "stars": 1169
+            "stars": 1169,
+            "topics": [
+              "physics",
+              "python",
+              "quantum",
+              "quantum-mechanics",
+              "quantum-physics",
+              "quantum-programming",
+              "schrodinger-equation",
+              "simulations",
+              "visualization",
+              "wavefunction"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1016,12 +1600,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An addictive incremental game that teaches players the history of high energy particle physics",
+            "homepage": "https://particle-clicker.web.cern.ch",
             "id": 22481329,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-02T17:28:05Z",
+            "open_issues": 22,
             "owner": "particle-clicker",
             "repo": "particle-clicker",
-            "stars": 683
+            "stars": 683,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1032,12 +1621,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for the numerical simulation of closed as well as open quantum systems.",
+            "homepage": "http://qojulia.org",
             "id": 54069751,
             "language": "Julia",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T05:17:23Z",
+            "open_issues": 55,
             "owner": "qojulia",
             "repo": "QuantumOptics.jl",
-            "stars": 621
+            "stars": 622,
+            "topics": [
+              "julia",
+              "quantum",
+              "quantum-mechanics",
+              "quantum-optics",
+              "quantum-toolbox"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1048,12 +1648,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A leading-edge control system for quantum information experiments",
+            "homepage": "https://m-labs.hk/artiq",
             "id": 20161671,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-01-18T10:40:16Z",
+            "open_issues": 213,
             "owner": "m-labs",
             "repo": "artiq",
-            "stars": 516
+            "stars": 516,
+            "topics": [
+              "compiler",
+              "physics",
+              "python",
+              "qt",
+              "quantum-computing",
+              "rust",
+              "science"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1064,12 +1677,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metapackage of Scikit-HEP project data analysis packages for Particle Physics.",
+            "homepage": "http://scikit-hep.org",
             "id": 73710584,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T08:57:17Z",
+            "open_issues": 1,
             "owner": "scikit-hep",
             "repo": "scikit-hep",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "analysis",
+              "hep",
+              "hep-ex",
+              "high-energy-physics",
+              "particle-physics",
+              "python",
+              "python3",
+              "root-cern",
+              "scikit-hep"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1080,12 +1708,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A series of self-study lectures on using Python for scientific computing at the graduate level in atomic physics and quantum optics.",
+            "homepage": null,
             "id": 24794651,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2015-01-19T15:08:40Z",
+            "open_issues": 1,
             "owner": "tpogden",
             "repo": "quantum-python-lectures",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1096,12 +1729,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python package for flavour physics phenomenology in the Standard model and beyond",
+            "homepage": "http://flav-io.github.io/",
             "id": 50420265,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-16T12:01:46Z",
+            "open_issues": 24,
             "owner": "flav-io",
             "repo": "flavio",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "eft",
+              "flavour-physics",
+              "hep",
+              "high-energy-physics",
+              "particle-physics",
+              "physics",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1112,12 +1758,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for main HEPData web application",
+            "homepage": "https://hepdata.net",
             "id": 47683530,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-25T15:13:43Z",
+            "open_issues": 112,
             "owner": "HEPData",
             "repo": "hepdata",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "invenio",
+              "inveniosoftware",
+              "open-access",
+              "research-data-repository"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         }
@@ -1134,12 +1790,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Astronomy and astrophysics core library",
+            "homepage": "https://www.astropy.org",
             "id": 2081289,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T09:38:45Z",
+            "open_issues": 1425,
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5289
+            "stars": 5289,
+            "topics": [
+              "astronomy",
+              "astrophysics",
+              "astropy",
+              "python",
+              "science"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1150,12 +1817,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SunPy - Python for Solar Physics",
+            "homepage": "http://www.sunpy.org",
             "id": 2165383,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-27T09:30:26Z",
+            "open_issues": 273,
             "owner": "sunpy",
             "repo": "sunpy",
-            "stars": 1033
+            "stars": 1033,
+            "topics": [
+              "astronomy",
+              "astropy",
+              "hacktoberfest",
+              "python",
+              "solar",
+              "solar-physics",
+              "sun",
+              "sunpy"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1166,12 +1847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "N-body and hydro analysis tools for Python",
+            "homepage": "https://pynbody.readthedocs.io",
             "id": 10058773,
             "language": "Python",
-            "last_commit": "2026-08-26T08:47:50Z",
+            "license": null,
+            "last_commit": "2026-08-28T19:25:33Z",
+            "open_issues": 135,
             "owner": "pynbody",
             "repo": "pynbody",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1182,12 +1868,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Galactic and gravitational dynamics in Python",
+            "homepage": "http://gala.adrian.pw",
             "id": 17577779,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T19:09:25Z",
+            "open_issues": 36,
             "owner": "adrn",
             "repo": "gala",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "astronomy",
+              "astrophysics",
+              "astropy-affiliated",
+              "dynamics",
+              "physics",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         }
@@ -1204,12 +1902,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simulation and Parameter Estimation in Geophysics  -  A python package for simulation and gradient based parameter estimation in the context of geophysical applications.",
+            "homepage": "http://simpeg.xyz",
             "id": 14727320,
             "language": "Python",
-            "last_commit": "2026-08-28T17:51:25Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:00:45Z",
+            "open_issues": 187,
             "owner": "simpeg",
             "repo": "simpeg",
-            "stars": 672
+            "stars": 672,
+            "topics": [
+              "direct-current-resistivity",
+              "electromagnetics",
+              "finite-volume",
+              "geophysics",
+              "geoscience",
+              "induced-polarization",
+              "inverse-problems",
+              "inversion",
+              "linear-algebra",
+              "magnetotellurics",
+              "modeling",
+              "modelling",
+              "multiphysics",
+              "open-science",
+              "optimization",
+              "partial-differential-equations",
+              "python",
+              "richards-equation",
+              "scientific-computing",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1220,12 +1944,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BurnMan is a Python toolkit for planetary geophysics, geochemistry and thermodynamics",
+            "homepage": "https://geodynamics.github.io/burnman/",
             "id": 20499942,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-04T19:57:46Z",
+            "open_issues": 3,
             "owner": "geodynamics",
             "repo": "burnman",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         },
@@ -1236,12 +1965,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Electromagnetic methods in geophysics - open educational resources.",
+            "homepage": "http://em.geosci.xyz",
             "id": 42916308,
             "language": "HTML",
+            "license": "CC-BY-4.0",
             "last_commit": "2025-02-06T20:55:07Z",
+            "open_issues": 66,
             "owner": "geoscixyz",
             "repo": "em",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "education",
+              "electromagnetics",
+              "geophysics",
+              "geoscience",
+              "open-science",
+              "reproducible-science"
+            ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
         }
@@ -1250,15 +1991,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:36:47.597Z",
+    "last_updated": "2026-08-29T04:39:00.124Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🌌 A collaborative list of awesome software for exploring Physics concepts",
+      "homepage": null,
       "id": 104597115,
       "language": null,
+      "license": null,
       "last_commit": "2024-02-27T05:41:07Z",
+      "open_issues": 3,
       "owner": "wbierbower",
       "repo": "awesome-physics",
-      "stars": 634
+      "stars": 634,
+      "topics": [
+        "astrophysics",
+        "awesome-list",
+        "electromagnetics",
+        "geophysics",
+        "mechanics",
+        "optics",
+        "physics",
+        "quantum-physics",
+        "relativity",
+        "scientific-computing",
+        "thermodynamics"
+      ]
     },
     "original_repository_sha": "807186a1235f3b35aa969718e16b04480e4e5f6a",
     "enhanced_repository": "enhansome/enhansome-physics",
