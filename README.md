@@ -33,25 +33,25 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ### Rigid Bodies and Physics Engines
 
-* [matter-js](https://github.com/liabru/matter-js) ⭐ 18,401 | 🐛 278 | 🌐 JavaScript | 📅 2024-08-17 - A 2D rigid body physics engine for the web
-* [bullet3](https://github.com/bulletphysics/bullet3) ⭐ 14,720 | 🐛 424 | 🌐 C++ | 📅 2025-10-22 - real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning
+* [matter-js](https://github.com/liabru/matter-js) ⭐ 18,406 | 🐛 278 | 🌐 JavaScript | 📅 2024-08-17 - A 2D rigid body physics engine for the web
+* [bullet3](https://github.com/bulletphysics/bullet3) ⭐ 14,721 | 🐛 424 | 🌐 C++ | 📅 2025-10-22 - real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning
 * [cannon.js](https://github.com/schteppe/cannon.js) ⭐ 5,002 | 🐛 212 | 🌐 JavaScript | 📅 2023-08-04 - A lightweight 3D physics engine written in JavaScript
 * [mujoco-py](https://github.com/openai/mujoco-py) ⚠️ Archived - A physics engine for detailed, efficient rigid body simulations with contacts
 * [simbody](https://github.com/simbody/simbody) ⭐ 2,548 | 🐛 162 | 🌐 C++ | 📅 2026-09-11 - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton
-* [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4) ⭐ 2,415 | 🐛 59 | 🌐 C++ | 📅 2022-11-15 - a scalable multi-platform game physics solution
+* [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4) ⭐ 2,416 | 🐛 59 | 🌐 C++ | 📅 2022-11-15 - a scalable multi-platform game physics solution
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) ⭐ 2,274 | 🐛 11 | 🌐 C++ | 📅 2026-09-01 - A library for the physically-based simulation of rigid bodies, deformable solids and fluids
 * [nphysics](https://github.com/sebcrozet/nphysics) ⭐ 1,649 | 🐛 44 | 🌐 Rust | 📅 2021-07-27 - 2 and 3-dimensional rigid body physics engine for Rust
 * [pymunk](https://github.com/viblo/pymunk) ⭐ 1,063 | 🐛 33 | 🌐 Python | 📅 2026-07-06 - A easy-to-use pythonic 2d physics library
 * [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) ⭐ 1,024 | 🐛 1 | 🌐 HTML | 📅 2026-01-17 - an integrated solution for real time simulation of physics environments
 * [ncollide](https://github.com/sebcrozet/ncollide) ⭐ 926 | 🐛 77 | 🌐 Rust | 📅 2023-01-31 - 2 and 3-dimensional collision detection library in Rust
-* [myphysicslab](https://github.com/myphysicslab/myphysicslab) ⭐ 445 | 🐛 2 | 🌐 TypeScript | 📅 2024-11-25 - provides JavaScript classes to build real-time interactive animated physics simulations
+* [myphysicslab](https://github.com/myphysicslab/myphysicslab) ⭐ 446 | 🐛 2 | 🌐 TypeScript | 📅 2024-11-25 - provides JavaScript classes to build real-time interactive animated physics simulations
 * [pydy](https://github.com/pydy/pydy) ⭐ 416 | 🐛 88 | 🌐 Python | 📅 2026-07-28 - Multibody dynamics tool kit
 
 ### Fluid Mechanics
 
-* [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) ⭐ 2,097 | 🐛 60 | 🌐 C++ | 📅 2023-12-24 - Fluid simulation engine for computer graphics applications
-* [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics) ⭐ 748 | 🐛 181 | 🌐 C++ | 📅 2025-04-16 - C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) solver
-* [fluids](https://github.com/CalebBell/fluids) ⭐ 453 | 🐛 3 | 🌐 Python | 📅 2026-09-12 - Fluid dynamics component of Chemical Engineering Design Library (ChEDL)
+* [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) ⭐ 2,098 | 🐛 60 | 🌐 C++ | 📅 2023-12-24 - Fluid simulation engine for computer graphics applications
+* [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics) ⭐ 749 | 🐛 181 | 🌐 C++ | 📅 2025-04-16 - C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) solver
+* [fluids](https://github.com/CalebBell/fluids) ⭐ 454 | 🐛 3 | 🌐 Python | 📅 2026-09-12 - Fluid dynamics component of Chemical Engineering Design Library (ChEDL)
 * [pysph](https://github.com/benma/pysph) ⭐ 114 | 🐛 0 | 🌐 Python | 📅 2013-06-24 - SPH fluid simulation with advanced screen space fluid rendering, using pyopengl and pyopencl
 
 ### Gravity
@@ -77,17 +77,17 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ## Thermodynamics
 
-* [CoolProp](https://github.com/CoolProp/CoolProp) ⭐ 1,069 | 🐛 94 | 🌐 C++ | 📅 2026-09-12 - Thermophysical properties for the masses
-* [cantera](https://github.com/Cantera/cantera) ⭐ 850 | 🐛 54 | 🌐 C++ | 📅 2026-09-11 - A chemical kinetics, thermodynamics, and transport tool suite
+* [CoolProp](https://github.com/CoolProp/CoolProp) ⭐ 1,069 | 🐛 92 | 🌐 C++ | 📅 2026-09-12 - Thermophysical properties for the masses
+* [cantera](https://github.com/Cantera/cantera) ⭐ 850 | 🐛 53 | 🌐 C++ | 📅 2026-09-12 - A chemical kinetics, thermodynamics, and transport tool suite
 * [thermo](https://github.com/CalebBell/thermo) ⭐ 784 | 🐛 13 | 🌐 Python | 📅 2026-07-13 - Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library (ChEDL)
 * [RMG-Py](https://github.com/ReactionMechanismGenerator/RMG-Py) ⭐ 530 | 🐛 41 | 🌐 Python | 📅 2026-09-10 - Python version of the amazing Reaction Mechanism Generator
 * [thermopy](https://github.com/guillemborrell/thermopy) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2024-05-30 - A python library for thermodynamics
 
 ## Electromagnetism
 
-* [meep](https://github.com/stevengj/meep) ⭐ 1,762 | 🐛 393 | 🌐 C++ | 📅 2026-09-11 - Free finite-difference time-domain (FDTD) software for electromagnetic simulations
-* [scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 936 | 🐛 56 | 🌐 Python | 📅 2026-09-08 - RF and Microwave Engineering Scikit
-* [gprMax](https://github.com/gprMax/gprMax) ⭐ 882 | 🐛 0 | 🌐 Python | 📅 2026-09-11 - Simulates electromagnetic wave propagation using the Finite-Difference Time-Domain (FDTD) method for numerical modelling of Ground Penetrating Radar (GPR)
+* [meep](https://github.com/stevengj/meep) ⭐ 1,763 | 🐛 393 | 🌐 C++ | 📅 2026-09-11 - Free finite-difference time-domain (FDTD) software for electromagnetic simulations
+* [scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 937 | 🐛 55 | 🌐 Python | 📅 2026-09-12 - RF and Microwave Engineering Scikit
+* [gprMax](https://github.com/gprMax/gprMax) ⭐ 882 | 🐛 1 | 🌐 Python | 📅 2026-09-12 - Simulates electromagnetic wave propagation using the Finite-Difference Time-Domain (FDTD) method for numerical modelling of Ground Penetrating Radar (GPR)
 * [openEMS](https://github.com/thliebig/openEMS) ⭐ 731 | 🐛 10 | 🌐 C++ | 📅 2026-09-10 - A free and open-source electromagnetic field solver using the EC-FDTD method
 * [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 710 | 🐛 350 | 🌐 Python | 📅 2026-09-08 - A community developed python package for plasma physics in the very early stages of development.
 * [radis](https://github.com/radis/radis) ⭐ 280 | 🐛 65 | 🌐 Python | 📅 2026-09-09 - A nonequilibrium Radiative Solver for infrared molecular spectra
@@ -118,9 +118,9 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ## Quantum Physics
 
-* [ROOT](https://github.com/root-project/root) ⭐ 3,294 | 🐛 649 | 🌐 C++ | 📅 2026-09-12 - A data processing and analysis framework, mainly used in high-energy physics
+* [ROOT](https://github.com/root-project/root) ⭐ 3,294 | 🐛 650 | 🌐 C++ | 📅 2026-09-12 - A data processing and analysis framework, mainly used in high-energy physics
 * [qutip](https://github.com/qutip/qutip) ⭐ 2,072 | 🐛 112 | 🌐 Python | 📅 2026-09-03 - Quantum Toolbox in Python
-* [Psi4](https://github.com/psi4/psi4) ⭐ 1,221 | 🐛 509 | 🌐 C++ | 📅 2026-09-12 - Open-source Quantum Chemistry
+* [Psi4](https://github.com/psi4/psi4) ⭐ 1,221 | 🐛 510 | 🌐 C++ | 📅 2026-09-12 - Open-source Quantum Chemistry
 * [QMsolve](https://github.com/quantum-visualizations/qmsolve) ⭐ 1,170 | 🐛 15 | 🌐 Python | 📅 2025-01-04 - A Python module for solving and visualizing the Schrödinger equation.
 * [particle-clicker](https://github.com/particle-clicker/particle-clicker) ⭐ 683 | 🐛 22 | 🌐 JavaScript | 📅 2024-04-02 - An addictive incremental game that teaches players the history of high energy particle physics
 * [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) ⭐ 624 | 🐛 50 | 🌐 Julia | 📅 2026-09-12 - Library for the numerical simulation of closed as well as open quantum systems
@@ -133,16 +133,16 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ## Astrophysics
 
-* [astropy](https://github.com/astropy/astropy) ⭐ 5,301 | 🐛 1,434 | 🌐 Python | 📅 2026-09-11 - intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python
-* [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,035 | 🐛 294 | 🌐 Python | 📅 2026-09-11 - an open-source Python library for solar physics data analysis
+* [astropy](https://github.com/astropy/astropy) ⭐ 5,301 | 🐛 1,429 | 🌐 Python | 📅 2026-09-12 - intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python
+* [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,036 | 🐛 294 | 🌐 Python | 📅 2026-09-11 - an open-source Python library for solar physics data analysis
 * [pynbody](https://github.com/pynbody/pynbody) ⭐ 193 | 🐛 133 | 🌐 Python | 📅 2026-09-11 - framework for N-body and hydrodynamic astrophysical simulations
-* [gala](https://github.com/adrn/gala) ⭐ 150 | 🐛 37 | 🌐 Python | 📅 2026-09-08 - Galactic and gravitational dynamics in Python
+* [gala](https://github.com/adrn/gala) ⭐ 150 | 🐛 40 | 🌐 Python | 📅 2026-09-08 - Galactic and gravitational dynamics in Python
 * [galpy](http://galpy.readthedocs.io/en/latest/) - Galactic Dynamics in python
 
 ## Geophysics
 
-* [simpeg](https://github.com/simpeg/simpeg) ⭐ 675 | 🐛 198 | 🌐 Python | 📅 2026-09-10 - Simulation and Parameter Estimation in Geophysics - A python package for simulation and gradient based parameter estimation in the context of geophysical applications
-* [burnman](https://github.com/geodynamics/burnman) ⭐ 87 | 🐛 3 | 🌐 Python | 📅 2026-07-04 - a library for modeling mantle thermodynamics and thermoelasticity constrained by mineral physics experiments
+* [simpeg](https://github.com/simpeg/simpeg) ⭐ 675 | 🐛 199 | 🌐 Python | 📅 2026-09-10 - Simulation and Parameter Estimation in Geophysics - A python package for simulation and gradient based parameter estimation in the context of geophysical applications
+* [burnman](https://github.com/geodynamics/burnman) ⭐ 87 | 🐛 4 | 🌐 Python | 📅 2026-09-12 - a library for modeling mantle thermodynamics and thermoelasticity constrained by mineral physics experiments
 * [em](https://github.com/geoscixyz/em) ⭐ 81 | 🐛 66 | 🌐 HTML | 📅 2025-02-06 - Electromagnetic methods in geophysics - open educational resources
 
 ## Condensed Matter Physics
@@ -171,4 +171,4 @@ To the extent possible under law, wbierbower has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
