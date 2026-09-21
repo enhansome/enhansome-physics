@@ -49,7 +49,7 @@
                 "open_issues": 278,
                 "owner": "liabru",
                 "repo": "matter-js",
-                "stars": 18420,
+                "stars": 18419,
                 "topics": [
                   "canvas",
                   "javascript",
@@ -254,7 +254,7 @@
                 "open_issues": 33,
                 "owner": "viblo",
                 "repo": "pymunk",
-                "stars": 1066,
+                "stars": 1067,
                 "topics": [
                   "library",
                   "physics-2d",
@@ -326,7 +326,7 @@
                 "open_issues": 2,
                 "owner": "myphysicslab",
                 "repo": "myphysicslab",
-                "stars": 443,
+                "stars": 444,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
@@ -621,7 +621,7 @@
                 "open_issues": 38,
                 "owner": "geodynamics",
                 "repo": "sw4",
-                "stars": 162,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
@@ -703,11 +703,11 @@
             "id": 19775824,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-18T13:42:13Z",
-            "open_issues": 98,
+            "last_commit": "2026-09-21T12:18:28Z",
+            "open_issues": 100,
             "owner": "CoolProp",
             "repo": "CoolProp",
-            "stars": 1071,
+            "stars": 1072,
             "topics": [
               "fluid-properties",
               "thermodynamics"
@@ -727,7 +727,7 @@
             "id": 32940327,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T02:31:34Z",
+            "last_commit": "2026-09-20T20:44:42Z",
             "open_issues": 53,
             "owner": "Cantera",
             "repo": "cantera",
@@ -844,10 +844,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-09-16T20:10:50Z",
-            "open_issues": 396,
+            "open_issues": 397,
             "owner": "NanoComp",
             "repo": "meep",
-            "stars": 1769,
+            "stars": 1772,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
@@ -868,7 +868,7 @@
             "open_issues": 50,
             "owner": "scikit-rf",
             "repo": "scikit-rf",
-            "stars": 939,
+            "stars": 940,
             "topics": [
               "electronics",
               "engineering",
@@ -895,7 +895,7 @@
             "open_issues": 1,
             "owner": "gprMax",
             "repo": "gprMax",
-            "stars": 880,
+            "stars": 881,
             "topics": [
               "antenna",
               "bioelectromagnetics",
@@ -931,10 +931,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-19T09:47:25Z",
-            "open_issues": 5,
+            "open_issues": 7,
             "owner": "thliebig",
             "repo": "openEMS",
-            "stars": 739,
+            "stars": 742,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
@@ -989,7 +989,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-09T11:54:52Z",
-            "open_issues": 66,
+            "open_issues": 65,
             "owner": "radis",
             "repo": "radis",
             "stars": 281,
@@ -1482,11 +1482,11 @@
             "id": 10994345,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T14:19:01Z",
-            "open_issues": 667,
+            "last_commit": "2026-09-21T12:40:08Z",
+            "open_issues": 662,
             "owner": "root-project",
             "repo": "root",
-            "stars": 3296,
+            "stars": 3297,
             "topics": [
               "c-plus-plus",
               "cling",
@@ -1551,11 +1551,11 @@
             "id": 9174469,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-19T22:10:21Z",
-            "open_issues": 522,
+            "last_commit": "2026-09-20T20:56:12Z",
+            "open_issues": 520,
             "owner": "psi4",
             "repo": "psi4",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "c-plus-plus",
               "chemistry",
@@ -1583,7 +1583,7 @@
             "open_issues": 15,
             "owner": "quantum-visualizations",
             "repo": "qmsolve",
-            "stars": 1169,
+            "stars": 1171,
             "topics": [
               "physics",
               "python",
@@ -1801,11 +1801,11 @@
             "id": 2081289,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-18T15:27:41Z",
-            "open_issues": 1427,
+            "last_commit": "2026-09-20T23:25:19Z",
+            "open_issues": 1434,
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5308,
+            "stars": 5309,
             "topics": [
               "astronomy",
               "astrophysics",
@@ -1829,7 +1829,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-17T13:44:27Z",
-            "open_issues": 302,
+            "open_issues": 311,
             "owner": "sunpy",
             "repo": "sunpy",
             "stars": 1036,
@@ -1955,7 +1955,7 @@
             "id": 20499942,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-12T15:42:18Z",
+            "last_commit": "2026-09-21T08:43:22Z",
             "open_issues": 5,
             "owner": "geodynamics",
             "repo": "burnman",
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:15:45.026Z",
+    "last_updated": "2026-09-21T12:41:13.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌌 A collaborative list of awesome software for exploring Physics concepts",
@@ -2009,7 +2009,7 @@
       "open_issues": 3,
       "owner": "wbierbower",
       "repo": "awesome-physics",
-      "stars": 640,
+      "stars": 642,
       "topics": [
         "astrophysics",
         "awesome-list",
