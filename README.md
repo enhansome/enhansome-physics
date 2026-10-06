@@ -33,7 +33,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 ### Rigid Bodies and Physics Engines
 
-* [matter-js](https://github.com/liabru/matter-js) ⭐ 18,443 | 🐛 279 | 🌐 JavaScript | 📅 2026-09-30 - A 2D rigid body physics engine for the web
+* [matter-js](https://github.com/liabru/matter-js) ⭐ 18,444 | 🐛 279 | 🌐 JavaScript | 📅 2026-09-30 - A 2D rigid body physics engine for the web
 * [bullet3](https://github.com/bulletphysics/bullet3) ⭐ 14,766 | 🐛 432 | 🌐 C++ | 📅 2025-10-22 - real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning
 * [cannon.js](https://github.com/schteppe/cannon.js) ⭐ 5,004 | 🐛 212 | 🌐 JavaScript | 📅 2023-08-04 - A lightweight 3D physics engine written in JavaScript
 * [mujoco-py](https://github.com/openai/mujoco-py) ⚠️ Archived - A physics engine for detailed, efficient rigid body simulations with contacts
@@ -87,7 +87,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 * [meep](https://github.com/stevengj/meep) ⭐ 1,787 | 🐛 391 | 🌐 C++ | 📅 2026-10-03 - Free finite-difference time-domain (FDTD) software for electromagnetic simulations
 * [scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 944 | 🐛 50 | 🌐 Python | 📅 2026-10-05 - RF and Microwave Engineering Scikit
-* [gprMax](https://github.com/gprMax/gprMax) ⭐ 886 | 🐛 3 | 🌐 Python | 📅 2026-10-03 - Simulates electromagnetic wave propagation using the Finite-Difference Time-Domain (FDTD) method for numerical modelling of Ground Penetrating Radar (GPR)
+* [gprMax](https://github.com/gprMax/gprMax) ⭐ 886 | 🐛 2 | 🌐 Python | 📅 2026-10-06 - Simulates electromagnetic wave propagation using the Finite-Difference Time-Domain (FDTD) method for numerical modelling of Ground Penetrating Radar (GPR)
 * [openEMS](https://github.com/thliebig/openEMS) ⭐ 753 | 🐛 11 | 🌐 C++ | 📅 2026-10-02 - A free and open-source electromagnetic field solver using the EC-FDTD method
 * [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 715 | 🐛 346 | 🌐 Python | 📅 2026-10-06 - A community developed python package for plasma physics in the very early stages of development.
 * [radis](https://github.com/radis/radis) ⭐ 284 | 🐛 66 | 🌐 Python | 📅 2026-09-24 - A nonequilibrium Radiative Solver for infrared molecular spectra
@@ -120,7 +120,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 
 * [ROOT](https://github.com/root-project/root) ⭐ 3,309 | 🐛 661 | 🌐 C++ | 📅 2026-10-06 - A data processing and analysis framework, mainly used in high-energy physics
 * [qutip](https://github.com/qutip/qutip) ⭐ 2,081 | 🐛 121 | 🌐 Python | 📅 2026-10-06 - Quantum Toolbox in Python
-* [Psi4](https://github.com/psi4/psi4) ⭐ 1,227 | 🐛 521 | 🌐 C++ | 📅 2026-10-01 - Open-source Quantum Chemistry
+* [Psi4](https://github.com/psi4/psi4) ⭐ 1,228 | 🐛 521 | 🌐 C++ | 📅 2026-10-01 - Open-source Quantum Chemistry
 * [QMsolve](https://github.com/quantum-visualizations/qmsolve) ⭐ 1,173 | 🐛 15 | 🌐 Python | 📅 2025-01-04 - A Python module for solving and visualizing the Schrödinger equation.
 * [particle-clicker](https://github.com/particle-clicker/particle-clicker) ⭐ 685 | 🐛 22 | 🌐 JavaScript | 📅 2024-04-02 - An addictive incremental game that teaches players the history of high energy particle physics
 * [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) ⭐ 624 | 🐛 50 | 🌐 Julia | 📅 2026-09-12 - Library for the numerical simulation of closed as well as open quantum systems
