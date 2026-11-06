@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "thomas-haslwanter",
                 "repo": "scikit-kinematics",
-                "stars": 143,
+                "stars": 144,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
@@ -49,7 +49,7 @@
                 "open_issues": 280,
                 "owner": "liabru",
                 "repo": "matter-js",
-                "stars": 18596,
+                "stars": 18599,
                 "topics": [
                   "canvas",
                   "javascript",
@@ -77,7 +77,7 @@
                 "open_issues": 439,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14845,
+                "stars": 14842,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -132,7 +132,7 @@
                 "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3151,
+                "stars": 3150,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
@@ -145,15 +145,15 @@
               "repo_info": {
                 "archived": false,
                 "description": "High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.",
-                "homepage": "https://simtk.org/home/simbody",
+                "homepage": "https://simbody.github.io/latest/index.html",
                 "id": 12146969,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T23:37:13Z",
-                "open_issues": 145,
+                "last_commit": "2026-11-05T23:30:44Z",
+                "open_issues": 139,
                 "owner": "simbody",
                 "repo": "simbody",
-                "stars": 2570,
+                "stars": 2571,
                 "topics": [
                   "biomechanics",
                   "multibody-dynamics",
@@ -201,7 +201,7 @@
                 "open_issues": 12,
                 "owner": "InteractiveComputerGraphics",
                 "repo": "PositionBasedDynamics",
-                "stars": 2297,
+                "stars": 2295,
                 "topics": [
                   "deformable-solids",
                   "position-based-dynamics",
@@ -254,7 +254,7 @@
                 "open_issues": 36,
                 "owner": "viblo",
                 "repo": "pymunk",
-                "stars": 1080,
+                "stars": 1081,
                 "topics": [
                   "library",
                   "physics-2d",
@@ -380,7 +380,7 @@
                 "open_issues": 60,
                 "owner": "doyubkim",
                 "repo": "fluid-engine-dev",
-                "stars": 2105,
+                "stars": 2106,
                 "topics": [
                   "animation",
                   "c-plus-plus",
@@ -476,6 +476,43 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T18:36:47.597Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OpenFLUME",
+              "description": "Thermo-fluid network solver for pipe flow, heat transfer, real fluids and two-phase flow, usable from a no-install browser UI or from Python ()",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source thermo-fluid network solver (GFSSP / SINDA-FLUINT class) that runs entirely in your browser. Steady + transient, real fluids, two-phase, conjugate heat transfer. Verified against NASA benchmarks.",
+                "homepage": "https://openflume.github.io/",
+                "id": 1341200353,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-06T10:10:49Z",
+                "open_issues": 8,
+                "owner": "OpenFLUME",
+                "repo": "OpenFLUME",
+                "stars": 7,
+                "topics": [
+                  "aerospace",
+                  "coolprop",
+                  "cryogenics",
+                  "engineering",
+                  "fluid-dynamics",
+                  "gfssp",
+                  "heat-transfer",
+                  "microfluidics",
+                  "network-solver",
+                  "propulsion",
+                  "rocket-engine",
+                  "simulation",
+                  "thermal-fluid",
+                  "thermodynamics",
+                  "webassembly"
+                ]
+              },
+              "first_seen": "2026-11-06T14:10:26.776Z"
             }
           ],
           "description": null,
@@ -497,7 +534,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-04T22:06:32Z",
-                "open_issues": 248,
+                "open_issues": 251,
                 "owner": "gwastro",
                 "repo": "pycbc",
                 "stars": 393,
@@ -590,7 +627,7 @@
                 "id": 557212,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T12:45:28Z",
+                "last_commit": "2026-11-06T10:58:42Z",
                 "open_issues": 48,
                 "owner": "pyrocko",
                 "repo": "pyrocko",
@@ -707,7 +744,7 @@
             "open_issues": 90,
             "owner": "CoolProp",
             "repo": "CoolProp",
-            "stars": 1111,
+            "stars": 1112,
             "topics": [
               "fluid-properties",
               "thermodynamics"
@@ -728,7 +765,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T20:37:29Z",
-            "open_issues": 59,
+            "open_issues": 61,
             "owner": "Cantera",
             "repo": "cantera",
             "stars": 882,
@@ -789,7 +826,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-05T04:32:06Z",
-            "open_issues": 51,
+            "open_issues": 53,
             "owner": "ReactionMechanismGenerator",
             "repo": "RMG-Py",
             "stars": 541,
@@ -843,11 +880,11 @@
             "id": 18223131,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-05T06:45:57Z",
-            "open_issues": 395,
+            "last_commit": "2026-11-06T08:51:12Z",
+            "open_issues": 394,
             "owner": "NanoComp",
             "repo": "meep",
-            "stars": 1841,
+            "stars": 1844,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
@@ -865,7 +902,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-02T19:07:28Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "scikit-rf",
             "repo": "scikit-rf",
             "stars": 960,
@@ -891,7 +928,7 @@
             "id": 43433739,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T10:46:18Z",
+            "last_commit": "2026-11-05T21:25:36Z",
             "open_issues": 1,
             "owner": "gprMax",
             "repo": "gprMax",
@@ -930,11 +967,11 @@
             "id": 3997670,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-04T20:54:30Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-05T18:55:55Z",
+            "open_issues": 20,
             "owner": "thliebig",
             "repo": "openEMS",
-            "stars": 780,
+            "stars": 782,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
@@ -989,7 +1026,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-11-02T16:56:10Z",
-            "open_issues": 70,
+            "open_issues": 72,
             "owner": "radis",
             "repo": "radis",
             "stars": 289,
@@ -1092,6 +1129,47 @@
             ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BeamZ",
+          "description": "Free, open-source 2D/3D FDTD solver with an intuitive Python API, CUDA and multi-GPU acceleration, and gradient-based inverse design for photonics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GPU-accelerated FDTD Python framework for fast, differentiable, large scale 2D/3D electromagnetic simulations and photonic inverse design.",
+            "homepage": "https://www.beamz.tech",
+            "id": 979745327,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-06T09:12:22Z",
+            "open_issues": 54,
+            "owner": "beamzorg",
+            "repo": "beamz",
+            "stars": 126,
+            "topics": [
+              "compact-model",
+              "computational-electromagnetics",
+              "cuda",
+              "electromagnetic-simulation",
+              "electromagnetics",
+              "fdtd",
+              "fdtd-simulation",
+              "fdtd-simulator",
+              "fdtd3d",
+              "finite-difference-time-domain",
+              "gdsfactory",
+              "gpu-acceleration",
+              "inverse-design",
+              "jax",
+              "nanophotonics",
+              "photonics",
+              "physics",
+              "python",
+              "simulation"
+            ]
+          },
+          "first_seen": "2026-11-06T14:10:26.776Z"
         },
         {
           "node_type": "item",
@@ -1227,7 +1305,7 @@
             "open_issues": 33,
             "owner": "Sterncat",
             "repo": "opticspy",
-            "stars": 552,
+            "stars": 553,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
@@ -1379,7 +1457,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-07T16:03:13Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "raysect",
             "repo": "source",
             "stars": 114,
@@ -1415,6 +1493,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PhotonCalc",
+          "description": "Browser calculators for photonics: Gaussian beams, ring resonators, QPM poling, Sellmeier dispersion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free photonics calculators and a photonics/semiconductor job board",
+            "homepage": null,
+            "id": 1435933571,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-10-29T11:12:16Z",
+            "open_issues": 0,
+            "owner": "NarwhalThePong",
+            "repo": "photoncalc",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-06T14:10:26.776Z"
         }
       ],
       "title": "Optics"
@@ -1438,7 +1537,7 @@
             "open_issues": 6,
             "owner": "MITGameLab",
             "repo": "OpenRelativity",
-            "stars": 782,
+            "stars": 783,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
@@ -1482,11 +1581,11 @@
             "id": 10994345,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T14:02:45Z",
-            "open_issues": 667,
+            "last_commit": "2026-11-06T13:47:37Z",
+            "open_issues": 678,
             "owner": "root-project",
             "repo": "root",
-            "stars": 3340,
+            "stars": 3341,
             "topics": [
               "c-plus-plus",
               "cling",
@@ -1520,11 +1619,11 @@
             "id": 6136261,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T14:35:52Z",
-            "open_issues": 117,
+            "last_commit": "2026-11-05T21:39:25Z",
+            "open_issues": 116,
             "owner": "qutip",
             "repo": "qutip",
-            "stars": 2095,
+            "stars": 2096,
             "topics": [
               "python",
               "quantum",
@@ -1782,6 +1881,62 @@
             ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WERR",
+          "description": "High-performance numerical simulation of black hole evaporation and Page curve unitary state recovery via modular invariant error-kernels and Lean 4 formal verification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fractal Neural Synthesis: Zero-Storage Procedural Weight Derivation, Universal Boundary Dynamics & Sub-Millisecond Decisions.",
+            "homepage": "https://pcworm.github.io/fractal-neural-synthesis/",
+            "id": 1371795351,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-05T21:42:19Z",
+            "open_issues": 0,
+            "owner": "pCwOrM",
+            "repo": "fractal-neural-synthesis",
+            "stars": 4,
+            "topics": [
+              "complex-systems",
+              "decision-boundaries",
+              "dynamical-systems",
+              "edge-ai",
+              "neuromorphic-computing",
+              "non-linear-dynamics",
+              "open-science",
+              "polynomial-escape-dynamics",
+              "procedural-boundary-dynamics",
+              "procedural-generation",
+              "python",
+              "reproducible-research",
+              "zero-storage"
+            ]
+          },
+          "first_seen": "2026-11-06T14:10:26.776Z"
+        },
+        {
+          "node_type": "item",
+          "title": "lfm-physics",
+          "description": "Lattice Field Medium simulation library with GPU acceleration, deriving gravity, electromagnetism, and quantum phenomena from two coupled wave equations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "LFM Physics library",
+            "homepage": null,
+            "id": 1185682703,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-10T21:59:58Z",
+            "open_issues": 3,
+            "owner": "gpartin",
+            "repo": "lfm-physics",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-06T14:10:26.776Z"
         }
       ],
       "title": "Quantum Physics"
@@ -1801,11 +1956,11 @@
             "id": 2081289,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-05T08:13:23Z",
-            "open_issues": 1397,
+            "last_commit": "2026-11-06T12:08:29Z",
+            "open_issues": 1396,
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5409,
+            "stars": 5411,
             "topics": [
               "astronomy",
               "astrophysics",
@@ -1894,6 +2049,70 @@
             ]
           },
           "first_seen": "2026-08-28T18:36:47.597Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Mzu-3D-Solar-System--Interactive-Solar-System-Simulator",
+          "description": "Browser-based Three.js 3D solar system visualization (Sun and eight planets) with a true-scale toggle and real orbital periods; educational, not an ephemeris",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free interactive 3D solar system simulator in the browser: true-scale distances, real orbital periods, planet facts, Moon & Mars expeditions. Three.js.",
+            "homepage": "https://3dsolarsystem.net",
+            "id": 1028914885,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-11-04T15:58:17Z",
+            "open_issues": 0,
+            "owner": "sweesama",
+            "repo": "Mzu-3D-Solar-System--Interactive-Solar-System-Simulator",
+            "stars": 1,
+            "topics": [
+              "3d",
+              "astronomy",
+              "education",
+              "orrery",
+              "planets",
+              "solar-system",
+              "solar-system-simulator",
+              "space",
+              "threejs",
+              "webgl"
+            ]
+          },
+          "first_seen": "2026-11-06T14:10:26.776Z"
+        },
+        {
+          "node_type": "item",
+          "title": "space-atlas",
+          "description": "free browser-based interactive astronomy concept models for Moon phases, Earth seasons, and cosmic scale",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free interactive astronomy lessons for students, teachers, and families: Moon phases, seasons, cosmic scales and science evidence.",
+            "homepage": "https://saramjh.github.io/space_atlas_student/",
+            "id": 1371099853,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-11-06T12:12:59Z",
+            "open_issues": 3,
+            "owner": "saramjh",
+            "repo": "space_atlas_student",
+            "stars": 0,
+            "topics": [
+              "astronomy",
+              "earth-science",
+              "educational-website",
+              "homeschool",
+              "interactive-learning",
+              "moon-phases",
+              "science-education",
+              "space-science",
+              "stem-education",
+              "teacher-resources"
+            ]
+          },
+          "first_seen": "2026-11-06T14:10:26.776Z"
         }
       ],
       "title": "Astrophysics"
@@ -1914,7 +2133,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T17:18:04Z",
-            "open_issues": 192,
+            "open_issues": 193,
             "owner": "simpeg",
             "repo": "simpeg",
             "stars": 694,
@@ -1997,7 +2216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T14:31:45.758Z",
+    "last_updated": "2026-11-06T14:10:26.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌌 A collaborative list of awesome software for exploring Physics concepts",
@@ -2005,11 +2224,11 @@
       "id": 104597115,
       "language": null,
       "license": null,
-      "last_commit": "2024-02-27T05:41:07Z",
-      "open_issues": 12,
+      "last_commit": "2026-11-05T14:36:52Z",
+      "open_issues": 2,
       "owner": "wbierbower",
       "repo": "awesome-physics",
-      "stars": 651,
+      "stars": 654,
       "topics": [
         "astrophysics",
         "awesome-list",
@@ -2024,7 +2243,7 @@
         "thermodynamics"
       ]
     },
-    "original_repository_sha": "807186a1235f3b35aa969718e16b04480e4e5f6a",
+    "original_repository_sha": "efe77223f6097c471bf1c719431ddf9d7a048b09",
     "enhanced_repository": "enhansome/enhansome-physics",
     "enhanced_repository_description": null,
     "title": "Awesome Physics with stars"
